@@ -29,9 +29,9 @@ store:
     limit: true
     description: true
     usage: false
-    mod: true
+    mod: false
   kinds:
-    mod: true
+    mod: false
     karma: true
     usage: true
   items:
@@ -39,11 +39,11 @@ store:
     weight: true
     karma: true
     quantity: true
-    mod: true
+    mod: false
     usage: true
   events:
     usage: true
-    mod: true
+    mod: false
   animals:
     usage: true
     mod: true
