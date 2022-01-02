@@ -35,7 +35,7 @@ store:
     karma: true
     usage: true
   items:
-    category: true
+    category: false
     weight: true
     karma: true
     quantity: true
@@ -55,11 +55,11 @@ commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
   shortcut: true
   # Whether or not the command list will display the command's required user level.
-  userlevel: true
+  userlevel: false
   # Whether or not the command list will display the command's uage.
   usage: true
   # Whether or not the command list will display the mod that added it.
-  mod: true
+  mod: false
 
 mods:
   # Whether or not the mod list will display the mod's version.
