@@ -1,0 +1,24 @@
+[
+  {
+    "data": {
+      "stats": [
+        "+60.00 Mass",
+        "+70% Flammability",
+        "+$1750 Market value",
+        "+4.60 Move speed",
+        "+28.8F Minimum comfortable temperature",
+        "+46.8F Maximum comfortable temperature",
+        "+75 Leather amount",
+        "+3 Honor value"
+      ],
+      "mod": "RimWorld",
+      "karmaType": null,
+      "customName": false
+    },
+    "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+    "defName": "Human",
+    "enabled": true,
+    "name": "human",
+    "price": 2917
+  }
+]
