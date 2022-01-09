@@ -656,23 +656,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's work priorities.",
-    "name": "Viewer work",
-    "usage": "!mypawnwork [worktype=priority] [...]",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": null,
     "name": "Viewer story",
     "usage": "!mypawnstory",
@@ -795,23 +778,6 @@
     "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
     "name": "Research",
     "usage": "!research [project/item]",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
-    "name": "Lookup",
-    "usage": "!lookup <item/category> [query]",
     "userLevel": "Anyone",
     "shortcut": false
   },
