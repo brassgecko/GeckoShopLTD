@@ -20,5 +20,32 @@
     "enabled": true,
     "name": "human",
     "price": 2917
+  },
+  {
+    "data": {
+      "stats": [
+        "+70.00 Mass",
+        "+100% Flammability",
+        "-108.0F Minimum comfortable temperature",
+        "+360.0F Maximum comfortable temperature",
+        "+0% Psychic sensitivity",
+        "+0% Toxic sensitivity",
+        "+0 Meat amount",
+        "+0 Leather amount",
+        "+0 Carrying capacity",
+        "+0.00% Social impact",
+        "+0.0% Armor - Blunt",
+        "+0.0% Armor - Sharp",
+        "+0.0% Armor - Heat"
+      ],
+      "mod": "Zombieland",
+      "karmaType": "Neutral",
+      "customName": false
+    },
+    "description": "A zombie",
+    "defName": "Zombie",
+    "enabled": false,
+    "name": "Zombie",
+    "price": 1
   }
 ]

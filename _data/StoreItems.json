@@ -622,7 +622,7 @@
       "abr": "finemeal",
       "category": "Meals",
       "defname": "MealFine",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "vegetarianfinemeal",
@@ -640,7 +640,7 @@
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "vegetarianlavishmeal",
@@ -766,31 +766,31 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "neutroamine",
@@ -802,7 +802,7 @@
       "abr": "chemfuel",
       "category": "Manufactured",
       "defname": "Chemfuel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "reinforcedbarrel",
@@ -910,7 +910,7 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "gold",
@@ -922,25 +922,25 @@
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "plasteel",
       "category": "Raw resources",
       "defname": "Plasteel",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "uranium",
       "category": "Raw resources",
       "defname": "Uranium",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "jade",
@@ -2170,7 +2170,7 @@
       "abr": "shieldcore",
       "category": "Items",
       "defname": "BroadshieldCore",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "jumppack",
@@ -2182,7 +2182,7 @@
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "eltexhelmet",
@@ -4529,7 +4529,85 @@
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
       "price": 1250
+    },
+    {
+      "abr": "zombieextract",
+      "category": "Serum",
+      "defname": "ZombieExtract",
+      "price": 17
+    },
+    {
+      "abr": "zombiemeat",
+      "category": "Meat",
+      "defname": "Meat_Zombie",
+      "price": 3
+    },
+    {
+      "abr": "zombieserum10%",
+      "category": "Serum",
+      "defname": "Zombie10Serum",
+      "price": 200
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "ZombieSerumSimple",
+      "price": 200
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "Zombie100Serum",
+      "price": 2000
+    },
+    {
+      "abr": "zombieserum20%",
+      "category": "Serum",
+      "defname": "Zombie20Serum",
+      "price": 400
+    },
+    {
+      "abr": "zombieserum30%",
+      "category": "Serum",
+      "defname": "Zombie30Serum",
+      "price": 600
+    },
+    {
+      "abr": "zombieserum40%",
+      "category": "Serum",
+      "defname": "Zombie40Serum",
+      "price": 800
+    },
+    {
+      "abr": "zombieserum50%",
+      "category": "Serum",
+      "defname": "Zombie50Serum",
+      "price": 1000
+    },
+    {
+      "abr": "zombieserum60%",
+      "category": "Serum",
+      "defname": "Zombie60Serum",
+      "price": 1200
+    },
+    {
+      "abr": "zombieserum70%",
+      "category": "Serum",
+      "defname": "Zombie70Serum",
+      "price": 1400
+    },
+    {
+      "abr": "zombieserum80%",
+      "category": "Serum",
+      "defname": "Zombie80Serum",
+      "price": 1600
+    },
+    {
+      "abr": "zombieserum90%",
+      "category": "Serum",
+      "defname": "Zombie90Serum",
+      "price": 1800
     }
   ],
-  "total": 755
+  "total": 768
 }

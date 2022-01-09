@@ -231,40 +231,6 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Instructions",
-    "usage": "!instructions",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "All commands",
-    "usage": "!allcommands",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
     "usage": "!installedmods",

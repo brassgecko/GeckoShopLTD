@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -42,7 +42,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"abr": "meteor",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "madanimal",
