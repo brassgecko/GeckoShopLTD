@@ -77,7 +77,7 @@
 	},
 	{
 		"abr": "eclipse",
-		"price": 1000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -97,7 +97,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 300,
 		"karmatype": "Bad"
 	},
 	{
@@ -161,16 +161,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "predators",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -182,7 +172,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 2800,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -212,17 +202,17 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 24000,
+		"price": 25000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 3000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 20000,
 		"karmatype": "Good"
 	},
 	{
@@ -232,7 +222,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -257,7 +247,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -306,5 +296,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 61
+	"total": 59
 }
