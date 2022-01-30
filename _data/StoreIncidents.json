@@ -46,11 +46,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "flashstorm",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
@@ -66,18 +61,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "volcanicwinter",
 		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
-		"price": 800,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
