@@ -89,7 +89,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
