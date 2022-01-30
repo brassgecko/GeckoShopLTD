@@ -1,0 +1,51 @@
+[
+  {
+    "data": {
+      "stats": [
+        "+60.00 Mass",
+        "+70% Flammability",
+        "+$1750 Market value",
+        "+4.60 Move speed",
+        "+28.8F Minimum comfortable temperature",
+        "+46.8F Maximum comfortable temperature",
+        "+75 Leather amount",
+        "+3 Honor value"
+      ],
+      "mod": "RimWorld",
+      "karmaType": null,
+      "customName": false
+    },
+    "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+    "defName": "Human",
+    "enabled": true,
+    "name": "human",
+    "price": 1000
+  },
+  {
+    "data": {
+      "stats": [
+        "+70.00 Mass",
+        "+100% Flammability",
+        "-108.0F Minimum comfortable temperature",
+        "+360.0F Maximum comfortable temperature",
+        "+0% Psychic sensitivity",
+        "+0% Toxic sensitivity",
+        "+0 Meat amount",
+        "+0 Leather amount",
+        "+0 Carrying capacity",
+        "+0.00% Social impact",
+        "+0.0% Armor - Blunt",
+        "+0.0% Armor - Sharp",
+        "+0.0% Armor - Heat"
+      ],
+      "mod": "Zombieland",
+      "karmaType": "Neutral",
+      "customName": false
+    },
+    "description": "A zombie",
+    "defName": "Zombie",
+    "enabled": false,
+    "name": "Zombie",
+    "price": 1
+  }
+]
