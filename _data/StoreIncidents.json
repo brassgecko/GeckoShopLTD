@@ -52,7 +52,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "eclipse",
-		"price": 2000,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -291,5 +291,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 60
+	"total": 58
 }
