@@ -48,10 +48,10 @@ events that will appear in-game. Buy a pawn to join the colony and outfit them w
 to help or raiders to try to burn everything..
 
 Some useful shortcuts if you have purchased a colonist:
-To directly equip armor or clothing: $wear itemName
-To directly equip a weapon: $equip itemName
-To directly use food (might not work) or other consumables: $use itemName
-To put something in your colonist inventory: $backpack itemName
+- To directly equip armor or clothing: $wear itemName
+- To directly equip a weapon: $equip itemName
+- To directly use food (might not work) or other consumables: $use itemName
+- To put something in your colonist inventory: $backpack itemName
 
 ## What Are Coins?
 
