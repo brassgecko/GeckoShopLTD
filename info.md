@@ -45,15 +45,16 @@ the colony. If anything's confusing, wrong, or broken please say so in the chat!
 ## What does Twitch Toolkit do?
 
 Toolkit lets you directly interfere with the colony. [Commands]({{- "/commands" | relative_url -}}) are your tools
-for interacting with the colony. The [store]({{- "/" | relative_url -}}) lets you purchase items or
-events that will appear in-game. Buy a pawn to join the colony and outfit them with gear, change the weather, send resources
-to help or raiders to try to burn everything..
+for interacting with the colony. The [store]({{- "/" | relative_url -}}) is your list of all items or events available,
+their prices, and any karma effects (see the Karma section below!). Send a pawn to join the chaos them and customize
+their traits and gear, send resources to help build, send raiders to try to burn everything..
 
-Some useful shortcuts if you have purchased a colonist:
+Some useful shortcuts if you have purchased a colonist, to save time and avoid me becoming confused:
 - To directly equip armor or clothing: $wear itemName
 - To directly equip a weapon: $equip itemName
 - To directly use food (might not work) or other consumables: $use itemName
 - To put something in your colonist inventory: $backpack itemName
+- To buy a body mod and queue the operation: $surgery itemName
 
 ## What Are Coins?
 
