@@ -37,7 +37,9 @@ permalink: /info
 
 # Welcome to the GeckoShop
 
-These instructions go with my stream at [twitch.tv/brassgecko](twitch.tv/brassgecko) and explain how to use [Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) in order to help or harm the colony. If anything's confusing, wrong, or broken please ask in the chat!
+These instructions go with my stream at [twitch.tv/brassgecko](twitch.tv/brassgecko) and explain how to use 
+[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) in order to help or harm 
+the colony. If anything's confusing, wrong, or broken please say so in the chat!
 
 
 ## What does Twitch Toolkit do?
