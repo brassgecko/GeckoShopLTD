@@ -16919,7 +16919,7 @@
     "Mod": "Rimsential - Homebound",
     "KarmaType": null
   },
-  "owl_refrigerator": {
+  "denture": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16936,7 +16936,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Utilities: Fridge",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
   "owl_doublerefrigerator": {
@@ -16959,7 +16959,7 @@
     "Mod": "Simple Utilities: Fridge",
     "KarmaType": null
   },
-  "denture": {
+  "owl_refrigerator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16976,7 +16976,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Simple Utilities: Fridge",
     "KarmaType": null
   }
 }

@@ -46,13 +46,18 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "flashstorm",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -126,8 +131,23 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "party",
+		"price": 600,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "alphabeavers",
 		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpoison",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -291,5 +311,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 58
+	"total": 62
 }
