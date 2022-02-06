@@ -35,30 +35,28 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-# Welcome
+# Welcome to the GeckoShop
 
-Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
-This stream uses the mod
-[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) to provide an
-interactive experience. There's a lot to the mod that may seem complicated to even more experienced
-users, but this short guide will help you get the hang of things.
+These instructions go with my stream at twitch.tv/brassgecko and explain how to use [Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) in order to help or harm the colony. If anything's confusing, wrong, or broken please ask in the chat!
 
-## What is Twitch Toolkit?
 
-Twitch Toolkit is a mod by hodlhodl that allows viewers to affect the game in a number of ways. The
-most prominent is its [store]({{- "/" | relative_url -}}), which allows you to purchase a number of
-things the streamer curated. Depending on the purchase, these things appear in-game or affect the
-game in some way. Another way viewers can interact with the game is through the mod's polls. The
-choices in these polls depend heavily on what's enabled in the mod.
+## What does Twitch Toolkit do?
+
+Toolkit lets you directly interfere with the colony. [Commands]({{- "/commands" | relative_url -}}) are your tools
+for interacting with the colony. The [store]({{- "/" | relative_url -}}) lets you purchase items or
+events that will appear in-game. Buy a pawn to join the colony and outfit them with gear, change the weather, send resources
+to help or raiders to try to burn everything..
+
+Some useful shortcuts if you have purchased a colonist:
+To directly equip armor or clothing: $wear itemName
+To directly equip a weapon: $equip itemName
+To directly use food (might not work) or other consumables: $use itemName
+To put something in your colonist inventory: $backpack itemName
 
 ## What Are Coins?
 
 Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
-
 {% if utils == true %}
-You'll notice the balance command may have some new emojis. If that's the case, here is an overview
-of the emojis as follows:
-
 - 💰 represents the amount of coins you current have.
 - ⚖ represents your current karma.
 - 📈 represents the amount of coins you gain everytime the mod awards coins.
@@ -77,19 +75,11 @@ You'll always get a new lootbox everyday.
 <br/>
 ## What is Karma?
 
-Karma is a system in the mod that tries to limit the amount of negative events a viewer can purchase at
-one time. This system works by directly modifying that amount of coins viewers get everytime the mod
-awards coins. This means that the lower you karma is, the lower your coin gain is. The hope is that
-negative events get spread out more so the colony can recover.
-
-## How Do I Use Twitch Toolkit?
-
-You can use Twitch Toolkit in a number of ways -- the most prominent way is through its
-[commands]({{- "/commands" | relative_url -}}). The more important command is the `{{- buy -}}`
-command, which is the mods entry point into purchasing things from the store. Other notable commands
-are the `!mypawn` commands, which allow you see various information about your pawn. We won't cover
-every command here, but most commands should generally be self-descriptive or have a description of
-what they do on the [commands]({{- "/commands" | relative_url -}}) page.
+Karma is a system that modifies the number of coins you earn. Beneficial events will raise your karma,
+harmful events will lower it, and anything neutral -may- raise your karma, depending on how I have the
+settings for the current scenario. BE WARNED! Your karma CAN go negative to the point that it begins
+draining your coins away, at which point you rely on my mercy or the generosity of other vieweres for
+a chance to recover. Plan your evils carefully!
 
 
 {%- if puppeteer -%}
