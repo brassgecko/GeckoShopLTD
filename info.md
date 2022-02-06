@@ -44,9 +44,9 @@ the colony. If anything's confusing, wrong, or broken please say so in the chat!
 
 ## What does Twitch Toolkit do?
 
-Toolkit lets you directly interfere with the colony. [Commands]({{- "/commands" | relative_url -}}) are your tools
-for interacting with the colony. The [store]({{- "/" | relative_url -}}) is your list of all items or events available,
-their prices, and any karma effects (see the Karma section below!). Send a pawn to join the chaos them and customize
+Toolkit lets you get your grubby fingers into the colony's business. [Commands]({{- "/commands" | relative_url -}}) are
+the ways you can use toolkit. The [store]({{- "/" | relative_url -}}) is your list of all items or events available,
+their prices, and any karma effects (see the Karma section below!). Send a pawn to join the chaos and customize
 their traits and gear, send resources to help build, send raiders to try to burn everything..
 
 Some useful shortcuts if you have purchased a colonist, to save time and avoid me becoming confused:
