@@ -50,11 +50,11 @@ their prices, and any karma effects (see the Karma section below!). Send a pawn 
 their traits and gear, send resources to help build, send raiders to try to burn everything..
 
 Some useful shortcuts if you have purchased a colonist, to save time and avoid me becoming confused:
-- To directly equip armor or clothing: $wear itemName
-- To directly equip a weapon: $equip itemName
-- To directly use food (might not work) or other consumables: $use itemName
-- To put something in your colonist inventory: $backpack itemName
-- To buy a body mod and queue the operation: $surgery itemName
+- `$wear itemName` to instantly wear armor or clothing
+- `$equip itemName` to instantly equip a weapon
+- `$use itemName` to instantly use food (might not fill hunger) or other consumables 
+- `$backpack itemName` to put things in your colonist inventory
+- `$surgery itemName` to buy a body mod and queue the operation
 
 ## What Are Coins?
 
@@ -69,20 +69,19 @@ Coins are the mod's currency. You can view your balance by using the `{{ bal }}`
 
 
 {%- if lootboxes == true -%}
-You'll also notice that you'll get a message from the bot about a lootbox. You can open this lootbox
-by using the `!openlootbox` command, as well as check the number of lootboxes you have with `!lootboxes`.
-You'll always get a new lootbox everyday.
+My bot will also pester you about lootboxes. Check if you have one by typing `!lootboxes` and open
+one with `!openlootbox`
 {%- endif -%}
 
 
 <br/>
 ## What is Karma?
 
-Karma is a system that modifies the number of coins you earn. Beneficial events will raise your karma,
-harmful events will lower it, and anything neutral -may- raise your karma, depending on how I have the
-settings for the current scenario. BE WARNED! Your karma CAN go negative to the point that it begins
-draining your coins away, at which point you rely on my mercy or the generosity of other vieweres for
-a chance to recover. Plan your evils carefully!
+Karma is a system that adjusts the number of coins you earn. Higher karma, more coins! Beneficial events 
+will raise your karma, harmful events will lower it, and anything neutral -may- raise your karma, 
+depending on my settings for the current scenario. BE WARNED! Your karma CAN go negative to the point 
+that it begins draining your coins away, at which point you rely on my mercy or the generosity of other 
+vieweres for a chance to recover. Plan your evils carefully!
 
 
 {%- if puppeteer -%}
