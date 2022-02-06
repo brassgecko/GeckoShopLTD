@@ -81,7 +81,7 @@ Karma is a system that adjusts the number of coins you earn. Higher karma, more 
 will raise your karma, harmful events will lower it, and anything neutral -may- raise your karma, 
 depending on my settings for the current scenario. BE WARNED! Your karma CAN go negative to the point 
 that it begins draining your coins away, at which point you rely on my mercy or the generosity of other 
-vieweres for a chance to recover. Plan your evils carefully!
+viewers for a chance to recover. Plan your evils carefully!
 
 
 {%- if puppeteer -%}
