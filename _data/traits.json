@@ -590,9 +590,9 @@
     "data": {
       "canBypassLimit": false,
       "customName": false,
-      "karmaTypeForRemoving": "Good",
+      "karmaTypeForRemoving": null,
       "mod": "RimWorld",
-      "karmaTypeForAdding": "Bad",
+      "karmaTypeForAdding": null,
       "conflicts": [
 
       ],
@@ -2020,6 +2020,68 @@
     "degree": 0
   },
   {
+    "description": "Timmy is not affected by the effects of aging.",
+    "stats": [
+
+    ],
+    "conflicts": [
+
+    ],
+    "bypassLimit": false,
+    "data": {
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "EvolvedOrgansRedux",
+      "karmaTypeForAdding": null,
+      "conflicts": [
+
+      ],
+      "stats": [
+
+      ]
+    },
+    "defName": "EVOR_RasVacoule",
+    "name": "rasvacoule",
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "degree": 0
+  },
+  {
+    "description": "Timmy's life revolves around fighting. he doesn't have the intelligence to do much else.",
+    "stats": [
+      "+20 shooting",
+      "+20 melee"
+    ],
+    "conflicts": [
+
+    ],
+    "bypassLimit": false,
+    "data": {
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "EvolvedOrgansRedux",
+      "karmaTypeForAdding": null,
+      "conflicts": [
+
+      ],
+      "stats": [
+        "+20 shooting",
+        "+20 melee"
+      ]
+    },
+    "defName": "EVOR_ExcellentFighter",
+    "name": "reptilianbrain",
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "degree": 0
+  },
+  {
     "description": "Timmy finds it difficult to focus on distant targets, and prefer to get up close and personal.",
     "stats": [
       "-2 shooting",
@@ -2294,7 +2356,8 @@
       "+5% pain shock threshold"
     ],
     "conflicts": [
-      "fragile"
+      "fragile",
+      "feeble"
     ],
     "bypassLimit": false,
     "data": {
@@ -2304,7 +2367,8 @@
       "mod": "RimTraits - General Traits",
       "karmaTypeForAdding": null,
       "conflicts": [
-        "fragile"
+        "fragile",
+        "feeble"
       ],
       "stats": [
         "-10% incoming damage multiplier",
@@ -2326,7 +2390,9 @@
       "-5% pain shock threshold"
     ],
     "conflicts": [
-      "resilient"
+      "resilient",
+      "hardy",
+      "tough"
     ],
     "bypassLimit": false,
     "data": {
@@ -2336,7 +2402,9 @@
       "mod": "RimTraits - General Traits",
       "karmaTypeForAdding": null,
       "conflicts": [
-        "resilient"
+        "resilient",
+        "hardy",
+        "tough"
       ],
       "stats": [
         "+10% incoming damage multiplier",
@@ -2666,7 +2734,7 @@
   {
     "description": "Timmy is more comfortable being in hot environment than his peers.",
     "stats": [
-      "+5.4F Maximum comfortable temperature"
+      "+5.4F [3.0C] Maximum comfortable temperature"
     ],
     "conflicts": [
       "heatintolerant"
@@ -2682,7 +2750,7 @@
         "heatintolerant"
       ],
       "stats": [
-        "+5.4F Maximum comfortable temperature"
+        "+5.4F [3.0C] Maximum comfortable temperature"
       ]
     },
     "defName": "RT_HeatTolerant",
@@ -2696,7 +2764,7 @@
   {
     "description": "Timmy does not like being in the heat.",
     "stats": [
-      "-5.4F Maximum comfortable temperature"
+      "-5.4F [-3.0C] Maximum comfortable temperature"
     ],
     "conflicts": [
       "heattolerant"
@@ -2712,7 +2780,7 @@
         "heattolerant"
       ],
       "stats": [
-        "-5.4F Maximum comfortable temperature"
+        "-5.4F [-3.0C] Maximum comfortable temperature"
       ]
     },
     "defName": "RT_HeatIntolerant",
@@ -2726,7 +2794,7 @@
   {
     "description": "Timmy is more comfortable being in cold environment than his peers.",
     "stats": [
-      "-5.4F Minimum comfortable temperature"
+      "-5.4F [-3.0C] Minimum comfortable temperature"
     ],
     "conflicts": [
       "coldintolerant"
@@ -2742,7 +2810,7 @@
         "coldintolerant"
       ],
       "stats": [
-        "-5.4F Minimum comfortable temperature"
+        "-5.4F [-3.0C] Minimum comfortable temperature"
       ]
     },
     "defName": "RT_ColdTolerant",
@@ -2756,7 +2824,7 @@
   {
     "description": "Timmy does not like being in the cold.",
     "stats": [
-      "+5.4F Minimum comfortable temperature"
+      "+5.4F [3.0C] Minimum comfortable temperature"
     ],
     "conflicts": [
       "coldtolerant"
@@ -2772,7 +2840,7 @@
         "coldtolerant"
       ],
       "stats": [
-        "+5.4F Minimum comfortable temperature"
+        "+5.4F [3.0C] Minimum comfortable temperature"
       ]
     },
     "defName": "RT_ColdIntolerant",
@@ -2901,6 +2969,156 @@
     },
     "defName": "RT_Ravenous",
     "name": "ravenous",
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "degree": 0
+  },
+  {
+    "description": "This is what a common trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+    "stats": [
+
+    ],
+    "conflicts": [
+
+    ],
+    "bypassLimit": false,
+    "data": {
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "RimTraits - General Traits",
+      "karmaTypeForAdding": null,
+      "conflicts": [
+
+      ],
+      "stats": [
+
+      ]
+    },
+    "defName": "RT_DemoCommon",
+    "name": "traitdemo:common",
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "degree": 0
+  },
+  {
+    "description": "This is what an uncommon trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+    "stats": [
+
+    ],
+    "conflicts": [
+
+    ],
+    "bypassLimit": false,
+    "data": {
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "RimTraits - General Traits",
+      "karmaTypeForAdding": null,
+      "conflicts": [
+
+      ],
+      "stats": [
+
+      ]
+    },
+    "defName": "RT_DemoUncommon",
+    "name": "traitdemo:uncommon",
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "degree": 0
+  },
+  {
+    "description": "This is what a rare trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+    "stats": [
+
+    ],
+    "conflicts": [
+
+    ],
+    "bypassLimit": false,
+    "data": {
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "RimTraits - General Traits",
+      "karmaTypeForAdding": null,
+      "conflicts": [
+
+      ],
+      "stats": [
+
+      ]
+    },
+    "defName": "RT_DemoRare",
+    "name": "traitdemo:rare",
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "degree": 0
+  },
+  {
+    "description": "This is what an epic trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+    "stats": [
+
+    ],
+    "conflicts": [
+
+    ],
+    "bypassLimit": false,
+    "data": {
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "RimTraits - General Traits",
+      "karmaTypeForAdding": null,
+      "conflicts": [
+
+      ],
+      "stats": [
+
+      ]
+    },
+    "defName": "RT_DemoEpic",
+    "name": "traitdemo:epic",
+    "canAdd": true,
+    "canRemove": true,
+    "addPrice": 3500,
+    "removePrice": 3500,
+    "degree": 0
+  },
+  {
+    "description": "This is what a legendary trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+    "stats": [
+
+    ],
+    "conflicts": [
+
+    ],
+    "bypassLimit": false,
+    "data": {
+      "canBypassLimit": false,
+      "customName": false,
+      "karmaTypeForRemoving": null,
+      "mod": "RimTraits - General Traits",
+      "karmaTypeForAdding": null,
+      "conflicts": [
+
+      ],
+      "stats": [
+
+      ]
+    },
+    "defName": "RT_DemoLegendary",
+    "name": "traitdemo:legendary",
     "canAdd": true,
     "canRemove": true,
     "addPrice": 3500,
@@ -3081,8 +3299,8 @@
       "+10% rest rate multiplier",
       "+10% immunity gain speed",
       "-5% toxic sensitivity",
-      "+1.8F Maximum comfortable temperature",
-      "-1.8F Minimum comfortable temperature"
+      "+1.8F [1.0C] Maximum comfortable temperature",
+      "-1.8F [-1.0C] Minimum comfortable temperature"
     ],
     "conflicts": [
       "chronicallyill"
@@ -3101,8 +3319,8 @@
         "+10% rest rate multiplier",
         "+10% immunity gain speed",
         "-5% toxic sensitivity",
-        "+1.8F Maximum comfortable temperature",
-        "-1.8F Minimum comfortable temperature"
+        "+1.8F [1.0C] Maximum comfortable temperature",
+        "-1.8F [-1.0C] Minimum comfortable temperature"
       ]
     },
     "defName": "RT_Healthy",
@@ -3119,8 +3337,8 @@
       "-10% rest rate multiplier",
       "-10% immunity gain speed",
       "+5% toxic sensitivity",
-      "-1.8F Maximum comfortable temperature",
-      "+1.8F Minimum comfortable temperature"
+      "-1.8F [-1.0C] Maximum comfortable temperature",
+      "+1.8F [1.0C] Minimum comfortable temperature"
     ],
     "conflicts": [
       "healthy"
@@ -3139,8 +3357,8 @@
         "-10% rest rate multiplier",
         "-10% immunity gain speed",
         "+5% toxic sensitivity",
-        "-1.8F Maximum comfortable temperature",
-        "+1.8F Minimum comfortable temperature"
+        "-1.8F [-1.0C] Maximum comfortable temperature",
+        "+1.8F [1.0C] Minimum comfortable temperature"
       ]
     },
     "defName": "RT_ChronicallyIll",
@@ -3154,8 +3372,8 @@
   {
     "description": "Timmy is comfortable in all seasons.",
     "stats": [
-      "+5.4F Maximum comfortable temperature",
-      "-5.4F Minimum comfortable temperature"
+      "+5.4F [3.0C] Maximum comfortable temperature",
+      "-5.4F [-3.0C] Minimum comfortable temperature"
     ],
     "conflicts": [
       "temperatureintolerant"
@@ -3171,8 +3389,8 @@
         "temperatureintolerant"
       ],
       "stats": [
-        "+5.4F Maximum comfortable temperature",
-        "-5.4F Minimum comfortable temperature"
+        "+5.4F [3.0C] Maximum comfortable temperature",
+        "-5.4F [-3.0C] Minimum comfortable temperature"
       ]
     },
     "defName": "RT_TemperatureTolerant",
@@ -3186,8 +3404,8 @@
   {
     "description": "Timmy thinks that summer is way too hot, and winter is way too cold.",
     "stats": [
-      "-5.4F Maximum comfortable temperature",
-      "+5.4F Minimum comfortable temperature"
+      "-5.4F [-3.0C] Maximum comfortable temperature",
+      "+5.4F [3.0C] Minimum comfortable temperature"
     ],
     "conflicts": [
       "temperaturetolerant"
@@ -3203,8 +3421,8 @@
         "temperaturetolerant"
       ],
       "stats": [
-        "-5.4F Maximum comfortable temperature",
-        "+5.4F Minimum comfortable temperature"
+        "-5.4F [-3.0C] Maximum comfortable temperature",
+        "+5.4F [3.0C] Minimum comfortable temperature"
       ]
     },
     "defName": "RT_TemperatureIntolerant",
@@ -3289,10 +3507,11 @@
       "-10% incoming damage multiplier",
       "+10% immunity gain speed",
       "-10% toxic sensitivity",
-      "+1.8F Maximum comfortable temperature",
-      "-1.8F Minimum comfortable temperature"
+      "+1.8F [1.0C] Maximum comfortable temperature",
+      "-1.8F [-1.0C] Minimum comfortable temperature"
     ],
     "conflicts": [
+      "fragile",
       "feeble"
     ],
     "bypassLimit": false,
@@ -3303,14 +3522,15 @@
       "mod": "RimTraits - General Traits",
       "karmaTypeForAdding": null,
       "conflicts": [
+        "fragile",
         "feeble"
       ],
       "stats": [
         "-10% incoming damage multiplier",
         "+10% immunity gain speed",
         "-10% toxic sensitivity",
-        "+1.8F Maximum comfortable temperature",
-        "-1.8F Minimum comfortable temperature"
+        "+1.8F [1.0C] Maximum comfortable temperature",
+        "-1.8F [-1.0C] Minimum comfortable temperature"
       ]
     },
     "defName": "RT_Hardy",
@@ -3327,11 +3547,13 @@
       "+10% incoming damage multiplier",
       "-10% immunity gain speed",
       "+10% toxic sensitivity",
-      "-1.8F Maximum comfortable temperature",
-      "+1.8F Minimum comfortable temperature"
+      "-1.8F [-1.0C] Maximum comfortable temperature",
+      "+1.8F [1.0C] Minimum comfortable temperature"
     ],
     "conflicts": [
-      "hardy"
+      "resilient",
+      "hardy",
+      "tough"
     ],
     "bypassLimit": false,
     "data": {
@@ -3341,14 +3563,16 @@
       "mod": "RimTraits - General Traits",
       "karmaTypeForAdding": null,
       "conflicts": [
-        "hardy"
+        "resilient",
+        "hardy",
+        "tough"
       ],
       "stats": [
         "+10% incoming damage multiplier",
         "-10% immunity gain speed",
         "+10% toxic sensitivity",
-        "-1.8F Maximum comfortable temperature",
-        "+1.8F Minimum comfortable temperature"
+        "-1.8F [-1.0C] Maximum comfortable temperature",
+        "+1.8F [1.0C] Minimum comfortable temperature"
       ]
     },
     "defName": "RT_Feeble",
