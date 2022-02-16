@@ -59,14 +59,6 @@ Some useful shortcuts if you have purchased a colonist, to save time and avoid m
 ## What Are Coins?
 
 Coins are the mod's currency, earned each minute while watching. You can view your balance by using the `{{ bal }}` command. 
-{% if utils == true %}
-- 💰 represents the amount of coins you current have.
-- ⚖ represents your current karma.
-- 📈 represents the amount of coins you gain everytime the mod awards coins.
-- 📉 represents the amount of coins you lose everytime to mod awards coins.
-
-{% endif %}
-
 
 {%- if lootboxes == true -%}
 My bot will also pester you about lootboxes. Check if you have one by typing `!lootboxes` and open
