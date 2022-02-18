@@ -231,23 +231,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Heal any pawn",
-    "usage": "!healanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
