@@ -3565,78 +3565,6 @@
       "price": -10
     },
     {
-      "abr": "zombieextract",
-      "category": "Serum",
-      "defname": "ZombieExtract",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum100%",
-      "category": "Serum",
-      "defname": "ZombieSerumSimple",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum10%",
-      "category": "Serum",
-      "defname": "Zombie10Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum20%",
-      "category": "Serum",
-      "defname": "Zombie20Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum30%",
-      "category": "Serum",
-      "defname": "Zombie30Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum40%",
-      "category": "Serum",
-      "defname": "Zombie40Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum50%",
-      "category": "Serum",
-      "defname": "Zombie50Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum60%",
-      "category": "Serum",
-      "defname": "Zombie60Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum70%",
-      "category": "Serum",
-      "defname": "Zombie70Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum80%",
-      "category": "Serum",
-      "defname": "Zombie80Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum90%",
-      "category": "Serum",
-      "defname": "Zombie90Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum100%",
-      "category": "Serum",
-      "defname": "Zombie100Serum",
-      "price": -10
-    },
-    {
       "abr": "rawcactus",
       "category": "Vegetarian",
       "defname": "RG_RawCactus",
@@ -7141,12 +7069,6 @@
       "price": -10
     },
     {
-      "abr": "zombiemeat",
-      "category": "Meat",
-      "defname": "Meat_Zombie",
-      "price": -10
-    },
-    {
       "abr": "venison",
       "category": "Meat",
       "defname": "Meat_RG-WF_WastelandDeer",
@@ -7531,51 +7453,9 @@
       "price": -10
     },
     {
-      "abr": "skilltrainer(shooting)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Shooting",
-      "price": -10
-    },
-    {
-      "abr": "skilltrainer(melee)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Melee",
-      "price": -10
-    },
-    {
-      "abr": "skilltrainer(construction)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Construction",
-      "price": -10
-    },
-    {
-      "abr": "skilltrainer(mining)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Mining",
-      "price": -10
-    },
-    {
-      "abr": "skilltrainer(cooking)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Cooking",
-      "price": -10
-    },
-    {
-      "abr": "skilltrainer(plants)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Plants",
-      "price": -10
-    },
-    {
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": -10
-    },
-    {
-      "abr": "skilltrainer(crafting)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Crafting",
       "price": -10
     },
     {
@@ -7585,9 +7465,57 @@
       "price": -10
     },
     {
+      "abr": "skilltrainer(construction)",
+      "category": "Skilltrainers",
+      "defname": "Neurotrainer_Construction",
+      "price": -10
+    },
+    {
+      "abr": "skilltrainer(cooking)",
+      "category": "Skilltrainers",
+      "defname": "Neurotrainer_Cooking",
+      "price": -10
+    },
+    {
+      "abr": "skilltrainer(crafting)",
+      "category": "Skilltrainers",
+      "defname": "Neurotrainer_Crafting",
+      "price": -10
+    },
+    {
+      "abr": "skilltrainer(intellectual)",
+      "category": "Skilltrainers",
+      "defname": "Neurotrainer_Intellectual",
+      "price": -10
+    },
+    {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
+      "price": -10
+    },
+    {
+      "abr": "skilltrainer(melee)",
+      "category": "Skilltrainers",
+      "defname": "Neurotrainer_Melee",
+      "price": -10
+    },
+    {
+      "abr": "skilltrainer(mining)",
+      "category": "Skilltrainers",
+      "defname": "Neurotrainer_Mining",
+      "price": -10
+    },
+    {
+      "abr": "skilltrainer(plants)",
+      "category": "Skilltrainers",
+      "defname": "Neurotrainer_Plants",
+      "price": -10
+    },
+    {
+      "abr": "skilltrainer(shooting)",
+      "category": "Skilltrainers",
+      "defname": "Neurotrainer_Shooting",
       "price": -10
     },
     {
@@ -7597,9 +7525,81 @@
       "price": -10
     },
     {
-      "abr": "skilltrainer(intellectual)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Intellectual",
+      "abr": "zombieextract",
+      "category": "Serum",
+      "defname": "ZombieExtract",
+      "price": -10
+    },
+    {
+      "abr": "zombiemeat",
+      "category": "Meat",
+      "defname": "Meat_Zombie",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum10%",
+      "category": "Serum",
+      "defname": "Zombie10Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "ZombieSerumSimple",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "Zombie100Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum20%",
+      "category": "Serum",
+      "defname": "Zombie20Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum30%",
+      "category": "Serum",
+      "defname": "Zombie30Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum40%",
+      "category": "Serum",
+      "defname": "Zombie40Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum50%",
+      "category": "Serum",
+      "defname": "Zombie50Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum60%",
+      "category": "Serum",
+      "defname": "Zombie60Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum70%",
+      "category": "Serum",
+      "defname": "Zombie70Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum80%",
+      "category": "Serum",
+      "defname": "Zombie80Serum",
+      "price": -10
+    },
+    {
+      "abr": "zombieserum90%",
+      "category": "Serum",
+      "defname": "Zombie90Serum",
       "price": -10
     }
   ],
