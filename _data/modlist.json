@@ -108,12 +108,6 @@
     "version": "1.3.2"
   },
   {
-    "author": "Falconne",
-    "name": "Heat Map",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FluffyKittens",
     "name": "Categorized Bill Dropdown",
     "steamId": null,
@@ -162,6 +156,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.3"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
+  },
+  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
@@ -174,40 +180,58 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Ships",
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.7875.31864"
+  },
+  {
+    "author": "Roo",
+    "name": "Anty the war ant race",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Bullet Magnet",
-    "name": "Save Our Ship 2 - Traitors Beyond Counting Pack",
+    "author": "Orion",
+    "name": "Cash Register",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Antisodium",
-    "name": "Save Our Ship 2 Enemy Ship Extension: StarSector",
+    "author": "Orion",
+    "name": "Gastronomy",
     "steamId": null,
     "version": null
   },
   {
-    "author": "UrDay2Die",
-    "name": "Save Our Ship 2 Meme Addon",
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "2.9.3.0"
+    "author": "dismarzero",
+    "name": "VGP Garden Tools",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Gourmet",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Syrchalis",
@@ -420,6 +444,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "noodlesking",
+    "name": "More Psycasts",
+    "steamId": "2460833332",
+    "version": "1.0.0.1"
+  },
+  {
     "author": "Morphium",
     "name": "Advanced Doors",
     "steamId": null,
@@ -432,22 +462,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Modular Tables and Chairs",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
     "version": "1.3.0.1"
-  },
-  {
-    "author": "Vectorial1024",
-    "name": "Elite Bionics Framework",
-    "steamId": "1665403571",
-    "version": "2.0.0.0"
   },
   {
     "author": "Ykara",
@@ -462,46 +480,10 @@
     "version": null
   },
   {
-    "author": "004GP",
-    "name": "Internal Armor Plates EPOE",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "taranchuk",
-    "name": "Archotech++",
-    "steamId": "2496279558",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "LegendaryMinuteman",
-    "name": "More Archotech Implants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "StatistNo1",
-    "name": "EvolvedOrgansRedux",
-    "steamId": "2424381146",
-    "version": "2.0.1"
-  },
-  {
-    "author": "jonny02 and explodoboy",
-    "name": "Brain Implants and More (implants)!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "RebelRabbit and  Taranchuk",
     "name": "Quality Bionics",
     "steamId": "2527206368",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Master Lorian",
-    "name": "Eye Implants Retextured",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "BinarySpark Samaru Gebäckgebieter Mlie",
@@ -510,58 +492,16 @@
     "version": null
   },
   {
-    "author": "Itzal",
-    "name": "Project Itzal - Main Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Extra Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Even More Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Bonus Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Special Delivery",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Community Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gunmar(グンマー)",
-    "name": "More Melee Weapons!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LeveFUN",
-    "name": "Shields, Shields. SHIELDS!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Avius and  Hazzer",
     "name": "Locks",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "TheEyeOfBrows",
+    "name": "Fluffy Breakdowns (1.3 Update)",
+    "steamId": "2584064444",
+    "version": "1.0.0"
   },
   {
     "author": "Mehni,  XeoNovaDan and  Miyuri (ZXfkSIE)",
@@ -598,12 +538,6 @@
     "name": "[Fuu] Uncompromising Fires",
     "steamId": "2623963630",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "3.4.0.0"
   },
   {
     "author": "avilmask",
@@ -658,18 +592,6 @@
     "name": "Smarter Deconstruction and Mining",
     "steamId": "2398365712",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "AgentBlac",
-    "name": "1.3 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MRGames",
-    "name": "Removes Tainted Clothes",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "JisPichi",
@@ -842,6 +764,12 @@
   {
     "author": "SirKota",
     "name": "InventoryTab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Master Lorian",
+    "name": "Eye Implants Retextured",
     "steamId": null,
     "version": null
   },
