@@ -76,7 +76,7 @@
     "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.",
     "defName": "AT_dreadnought",
     "enabled": true,
-    "name": "Anty Dreadnought",
+    "name": "AntyDreadnought",
     "price": 4000
   },
   {
