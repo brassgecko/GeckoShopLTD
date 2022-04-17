@@ -3286,13 +3286,13 @@
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler",
-      "price": 17
+      "price": 500
     },
     {
       "abr": "cleaningbot",
       "category": "Animal",
       "defname": "AIRobot_Cleaner",
-      "price": 17
+      "price": 500
     },
     {
       "abr": "rawcactus",
