@@ -1989,7 +1989,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
       "stats": [
 
       ],
@@ -2001,7 +2001,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2010,8 +2010,38 @@
 
         ]
       },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
+      "defName": "Hygienic",
+      "name": "germaphobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 3000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "hygienic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2019,7 +2049,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "description": "Timmy is very unhygienic and will wash less frequently.",
       "stats": [
 
       ],
@@ -2031,7 +2061,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2040,8 +2070,8 @@
 
         ]
       },
-      "defName": "Xenophobia",
-      "name": "xenophile",
+      "defName": "Hygienic",
+      "name": "unhygienic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2049,13 +2079,9 @@
       "degree": -1
     },
     {
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
       "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
+
       ],
       "conflicts": [
 
@@ -2065,26 +2091,22 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
+
         ]
       },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot",
+      "defName": "Hygienic",
+      "name": "slob",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 3000,
-      "degree": 1
+      "degree": -2
     },
     {
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
@@ -3764,42 +3786,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
-      "name": "human",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+75.00 Mass",
-          "+50% Flammability",
-          "+$3200 Market value",
-          "+4.00 Move speed",
-          "+32.4F [18.0C] Maximum comfortable temperature",
-          "+3.6F [2.0C] Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+80 Meat amount",
-          "+50 Leather amount",
-          "+120% Psychic sensitivity",
-          "+80% Melee avoid chance",
-          "+100.00% Social impact",
-          "+85% General labor speed",
-          "+130% Drug synthesis speed",
-          "+120% Medical tend speed",
-          "+115% Medical tend quality",
-          "+115% Medical surgery success chance",
-          "+4 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
-      "defName": "Alien_Moyo",
       "enabled": true,
-      "name": "Moyo",
-      "price": 2000
+      "name": "human",
+      "price": 2500
     }
   ]
 }

@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "version": "1.3.0.0"
   },
   {
     "author": "Fluffy",
@@ -30,14 +30,8 @@
     "version": "9.0.1"
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings",
+    "author": "pelador",
+    "name": "Proximity (Continued)",
     "steamId": null,
     "version": null
   },
@@ -72,34 +66,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "lost_RD",
-    "name": "Slow Down",
-    "steamId": "1077748917",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.4.0"
+    "version": "2.3.2.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "No Pause Challenge",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
     "name": "Map Reroll",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "m00nl1ght-dev",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oblitus",
-    "name": "My Little Planet",
-    "steamId": "1117406550",
-    "version": "1.0.0.0"
   },
   {
     "author": "Kosaro",
@@ -138,12 +120,6 @@
     "version": "1.3.842.0"
   },
   {
-    "author": "Pillowesque",
-    "name": "Custom Playstyle Presets",
-    "steamId": "2555720919",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -174,10 +150,10 @@
     "version": "1.1.1.6"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.2"
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
@@ -186,40 +162,16 @@
     "version": "1.0.7862.37403"
   },
   {
-    "author": "NilchEi",
-    "name": "Powerful Faction Bases",
-    "steamId": "1570960972",
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Machine",
+    "name": "Better Infestations 1.3",
+    "steamId": "1319614331",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Gouda quiche",
-    "name": "MoHAR framework",
-    "steamId": "2057001924",
-    "version": "1.0.7875.31864"
-  },
-  {
-    "author": "Nemonian",
-    "name": "Moyo-From the depth",
-    "steamId": "2182305386",
-    "version": "1.3.2"
-  },
-  {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Syrchalis",
@@ -234,6 +186,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Orion,  JoeysLucky22 and  Erdelf",
+    "name": "More Mechanoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Village Guy",
+    "name": "Less Mechanoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Lucifer",
     "name": "Realistic Rooms Rewritten",
     "steamId": null,
@@ -244,6 +214,18 @@
     "name": "Quest Reward Rebalance",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "KittahKhan",
+    "name": "[Kit] Graze up",
+    "steamId": "2302739121",
+    "version": "1.0.0.0"
   },
   {
     "author": "Zylle",
@@ -360,6 +342,36 @@
     "version": null
   },
   {
+    "author": "Zylle",
+    "name": "Ducks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killgaet",
+    "name": "Duck army",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "Hybrid Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Udon",
+    "name": "Animal Weapon",
+    "steamId": "2497919470",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Wolfcub05",
+    "name": "Draftable Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "KittahKhan",
     "name": "[Kit] Just A Flesh Wound",
     "steamId": "2260055393",
@@ -394,12 +406,6 @@
     "name": "PawnTargetFix",
     "steamId": "2014789938",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "ChickenBites84 and  Denneisk",
-    "name": "Factorial Range Firefights",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Sozzky",
@@ -456,12 +462,6 @@
     "version": "1.3.0.1"
   },
   {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
-  },
-  {
     "author": "Ykara",
     "name": "Expanded Prosthetics and Organ Engineering",
     "steamId": null,
@@ -496,6 +496,12 @@
     "name": "Windows",
     "steamId": "2571189146",
     "version": "1.3"
+  },
+  {
+    "author": "Meltup",
+    "name": "Polyamory Beds (Vanilla Edition)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Syrchalis",
@@ -546,12 +552,6 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "Tyler",
-    "name": "Pawn Education (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fuu Chan",
     "name": "[Fuu] Uncompromising Fires",
     "steamId": "2623963630",
@@ -562,6 +562,30 @@
     "name": "Achtung!",
     "steamId": "730936602",
     "version": "3.4.4.0"
+  },
+  {
+    "author": "1trickPonyta",
+    "name": "Hold the Grenades",
+    "steamId": "2588959035",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "taranchuk",
+    "name": "Archotech++",
+    "steamId": "2496279558",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MrKociak",
+    "name": "More Archotech Garbage Reupload",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0.0"
   },
   {
     "author": "avilmask",
@@ -804,12 +828,6 @@
     "version": "1.2.1.38"
   },
   {
-    "author": "Hob Took",
-    "name": "Trade UI Revised",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fluffy",
     "name": "Animal Tab",
     "steamId": "712141500",
@@ -886,12 +904,6 @@
     "name": "[KV] Show Hair With Hats or Hide All Hats",
     "steamId": "1180826364",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Juduc",
-    "name": "Paint Mechs",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "JI_Won",

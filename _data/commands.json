@@ -3,24 +3,6 @@
     "data": {
       "isShortcut": false,
       "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Gives a viewer coins.",
-    "name": "Give coins",
-    "usage": "!givecoins <viewer> <coins>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "GiveCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
       "isBalance": true,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
@@ -34,24 +16,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "CheckBalance"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Karma explanation",
-    "usage": "!whatiskarma",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "WhatIsKarma"
   },
   {
     "data": {
@@ -91,24 +55,6 @@
   },
   {
     "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
-    "name": "Level skill",
-    "usage": "!levelskill <skill> <coins>",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "LevelSkillShortcut"
-  },
-  {
-    "data": {
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
@@ -124,24 +70,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "ModSettings"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "All commands",
-    "usage": "!allcommands",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AvailableCommands"
   },
   {
     "data": {
@@ -262,6 +190,24 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": null,
+    "name": "Healall",
+    "usage": "!healall",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "HealAllShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
@@ -317,24 +263,6 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Revive any pawn",
-    "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveAnyPawnShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
     "name": "Heal any pawn",
     "usage": "!healanypawn",
     "userLevel": "Anyone",
@@ -358,24 +286,6 @@
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "ReplaceTraitShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "It's like buy item, but it gets added to your inventory if possible.",
-    "name": "Backpack",
-    "usage": "!backpack <item> [quantity]",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "BackpackShortcut"
   },
   {
     "data": {
@@ -425,11 +335,11 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Rescue me",
-    "usage": "!rescueme",
+    "name": "Full heal",
+    "usage": "!fullheal",
     "userLevel": "Anyone",
     "shortcut": true,
-    "defName": "RescueMeShortcut"
+    "defName": "FullHealShortcut"
   },
   {
     "data": {
@@ -622,24 +532,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn leave the colony.",
-    "name": "Abandon pawn",
-    "usage": "!leave",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AbandonPawn"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": "Shows your pawn's relationships to other viewers.",
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",
@@ -718,78 +610,6 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "UnstickAll"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
-    "name": "Insult",
-    "usage": "!insult [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Insult"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
-    "name": "Chat",
-    "usage": "!chat [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Chat"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
-    "name": "Flirt",
-    "usage": "!flirt [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Flirt"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
-    "name": "Deep chat",
-    "usage": "!deepchat [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "DeepChat"
   },
   {
     "data": {
