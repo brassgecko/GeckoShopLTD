@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "data": {
       "isShortcut": false,
@@ -340,6 +340,24 @@
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "FullHealShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Rescue me",
+    "usage": "!rescueme",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "RescueMeShortcut"
   },
   {
     "data": {
