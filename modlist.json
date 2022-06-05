@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "version": "1.3.0.0"
   },
   {
     "author": "Fluffy",
@@ -30,16 +30,10 @@
     "version": "9.0.1"
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.3.0.4"
-  },
-  {
-    "author": "CrashM",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "1.3.3136.1"
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
   },
   {
     "author": "Azelion",
@@ -48,10 +42,10 @@
     "version": null
   },
   {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
   },
   {
     "author": "Jaxe",
@@ -60,10 +54,22 @@
     "version": null
   },
   {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.3.3136.1"
+  },
+  {
     "author": "PeteTimesSix",
     "name": "Compact Hediffs",
     "steamId": "2031734067",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.3.2.0"
   },
   {
     "author": "lost_RD",
@@ -72,16 +78,40 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "2.2.1.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Follow Me",
     "steamId": "715759739",
     "version": "4.9.95"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Map Reroll",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nyan",
+    "name": "Custom Pawn Generation",
+    "steamId": "1958331203",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oblitus",
+    "name": "My Little Planet",
+    "steamId": "1117406550",
+    "version": "1.0.0.0"
   },
   {
     "author": "Kosaro",
@@ -96,20 +126,26 @@
     "version": "1.8.0.0"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
+  },
+  {
     "author": "Owlchemist",
     "name": "Toggleable Readouts",
     "steamId": "2661792499",
     "version": "1.3"
   },
   {
-    "author": "Neptimus7",
-    "name": "Progress Renderer",
-    "steamId": "2010777010",
-    "version": "1.3.2"
+    "author": "brucethemoose",
+    "name": "Hybrid Storytellers",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Heat Map",
+    "author": "Owlchemist",
+    "name": "Completely Clueless",
     "steamId": null,
     "version": null
   },
@@ -126,16 +162,22 @@
     "version": "1.3.0.2"
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.3.842.0"
-  },
-  {
     "author": "Pillowesque",
     "name": "Custom Playstyle Presets",
     "steamId": "2555720919",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.2.7364"
   },
   {
     "author": "hodlhodl",
@@ -153,7 +195,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.6.0"
+    "version": "6.2.0.5"
   },
   {
     "author": "hodlhodl",
@@ -162,70 +204,64 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.6"
+  },
+  {
+    "author": "Orpheusly",
+    "name": "Rimsential - Homebound",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
     "version": "1.0.7862.37403"
   },
   {
-    "author": "NilchEi",
-    "name": "Powerful Faction Bases",
-    "steamId": "1570960972",
+    "author": "Machine",
+    "name": "Better Infestations 1.3",
+    "steamId": "1319614331",
     "version": "1.0.0.0"
   },
   {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
+    "author": "Pyrce",
+    "name": "Dire Raids",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Ships",
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kirby23590",
+    "name": "[KIR]No Mechanoid Raids",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Bullet Magnet",
-    "name": "Save Our Ship 2 - Traitors Beyond Counting Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "2.9.2.0"
-  },
-  {
-    "author": "UrDay2Die",
-    "name": "Save Our Ship 2 Meme Addon",
-    "steamId": null,
-    "version": null
+    "author": "1trickPonyta",
+    "name": "Unlimited Threat Scale",
+    "steamId": "2562732435",
+    "version": "1.0.0.0"
   },
   {
     "author": "Syrchalis",
     "name": "[SYR] Set Up Camp",
     "steamId": "1470065926",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "denev",
-    "name": "Smart Turret Covering",
-    "steamId": "2636621800",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Orion,  JoeysLucky22 and  Erdelf",
-    "name": "More Mechanoids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "The Village Guy",
-    "name": "Less Mechanoids",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Lucifer",
@@ -238,6 +274,12 @@
     "name": "Quest Reward Rebalance",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "KittahKhan",
+    "name": "[Kit] Graze up",
+    "steamId": "2302739121",
+    "version": "1.0.0.0"
   },
   {
     "author": "Zylle",
@@ -265,7 +307,7 @@
   },
   {
     "author": "Helixien and  Alastair",
-    "name": "ReGrowth: Boreal Forest Expansion",
+    "name": "ReGrowth Remastered: Boreal Forests",
     "steamId": null,
     "version": null
   },
@@ -289,7 +331,7 @@
   },
   {
     "author": "Helixien and  Alastair",
-    "name": "ReGrowth: Tundra Expansion",
+    "name": "ReGrowth Remastered: Tundras",
     "steamId": null,
     "version": null
   },
@@ -354,16 +396,10 @@
     "version": null
   },
   {
-    "author": "Dr_Zhivago",
-    "name": "DocPawnOverhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DaLLaN",
-    "name": "Combat Update 1.3",
-    "steamId": null,
-    "version": null
+    "author": "KittahKhan",
+    "name": "[Kit] Just A Flesh Wound",
+    "steamId": "2260055393",
+    "version": "1.0.0.0"
   },
   {
     "author": "SinaKpaa",
@@ -372,14 +408,8 @@
     "version": null
   },
   {
-    "author": "Techmago",
-    "name": "Minigun2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
+    "author": "Roolo",
+    "name": "Search and Destroy",
     "steamId": null,
     "version": null
   },
@@ -396,6 +426,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Atkana",
+    "name": "Passive Cover",
+    "steamId": "2732147678",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Fuu Chan",
     "name": "[Fuu] Punch Attack",
     "steamId": "2651392585",
@@ -406,12 +442,6 @@
     "name": "Ground Targeter",
     "steamId": "2356822769",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Morphium",
-    "name": "Advanced Doors",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Murmur",
@@ -426,18 +456,6 @@
     "version": null
   },
   {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
-    "author": "Vectorial1024",
-    "name": "Elite Bionics Framework",
-    "steamId": "1665403571",
-    "version": "2.0.0.0"
-  },
-  {
     "author": "Ykara",
     "name": "Expanded Prosthetics and Organ Engineering",
     "steamId": null,
@@ -450,122 +468,44 @@
     "version": null
   },
   {
-    "author": "004GP",
-    "name": "Internal Armor Plates EPOE",
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
     "steamId": null,
     "version": null
   },
   {
-    "author": "taranchuk",
-    "name": "Archotech++",
-    "steamId": "2496279558",
+    "author": "Owlchemist and  jptrrs",
+    "name": "Windows",
+    "steamId": "2571189146",
+    "version": "1.3"
+  },
+  {
+    "author": "krkr",
+    "name": "Locks 2: Lock Them Out!",
+    "steamId": "2285862824",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
     "version": "1.0.0.0"
   },
   {
-    "author": "LegendaryMinuteman",
-    "name": "More Archotech Implants",
-    "steamId": null,
-    "version": null
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": "2645100914",
+    "version": "0.0.0.0"
   },
   {
-    "author": "StatistNo1",
-    "name": "EvolvedOrgansRedux",
-    "steamId": "2424381146",
-    "version": "2.0.1"
-  },
-  {
-    "author": "jonny02 and explodoboy",
-    "name": "Brain Implants and More (implants)!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RebelRabbit and  Taranchuk",
-    "name": "Quality Bionics",
-    "steamId": "2527206368",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Master Lorian",
-    "name": "Eye Implants Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "BinarySpark Samaru Gebäckgebieter Mlie",
-    "name": "Melee Weapons Extended",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Main Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Extra Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Even More Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Bonus Guns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Special Delivery",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Itzal",
-    "name": "Project Itzal - Community Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gunmar(グンマー)",
-    "name": "More Melee Weapons!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LeveFUN",
-    "name": "Shields, Shields. SHIELDS!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Avius and  Hazzer",
-    "name": "Locks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni,  XeoNovaDan and  Miyuri (ZXfkSIE)",
-    "name": "4M Mehni's Misc Modifications [1.2-1.3]",
-    "steamId": "2228765246",
-    "version": "1.3.0.0"
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.3.4"
   },
   {
     "author": "Smash Phil",
     "name": "Loading In Progress",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jdalt40",
-    "name": "No More Lethal Damage Threshold",
     "steamId": null,
     "version": null
   },
@@ -576,22 +516,64 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "Tyler",
-    "name": "Pawn Education (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fuu Chan",
     "name": "[Fuu] Uncompromising Fires",
     "steamId": "2623963630",
     "version": "1.1.0.0"
   },
   {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.4.4.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Netrve",
+    "name": "Netrve's DeepStorage GUI",
+    "steamId": "2169841018",
+    "version": "1.2.1.38"
+  },
+  {
+    "author": "1trickPonyta",
+    "name": "Hold the Grenades",
+    "steamId": "2588959035",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "denev",
+    "name": "Smart Turret Covering",
+    "steamId": "2636621800",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dylan",
+    "name": "Children, school and learning",
+    "steamId": "1541438230",
+    "version": "1.7.3.2"
+  },
+  {
+    "author": "Thirite,  Cheran,  Jarry1250,  lellel,  Kori,  Zach and  cometopapa",
+    "name": "Babies and Children [1.3]",
+    "steamId": "2559574784",
+    "version": "1.0.8162.34412"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.1.32"
+    "version": "1.1.46"
   },
   {
     "author": "Weilbyte",
@@ -602,14 +584,20 @@
   {
     "author": "Mehni",
     "name": "Pick Up And Haul",
-    "steamId": null,
-    "version": null
+    "steamId": "1279012058",
+    "version": "1.0.0"
   },
   {
     "author": "CodeOptimist",
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
-    "version": "3.1.4.3561"
+    "version": "3.1.4.2343"
+  },
+  {
+    "author": "Netrve",
+    "name": "Hunters Use Melee!",
+    "steamId": "2062709324",
+    "version": "1.2.1.0"
   },
   {
     "author": "Murmur",
@@ -642,8 +630,32 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AgentBlac",
-    "name": "1.3 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)",
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "pointfeev",
+    "name": "Automatic Bed Reassignment",
+    "steamId": "2404555784",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fraser Hitchen",
+    "name": "Better Beggars",
+    "steamId": "2729617288",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Qarsoon Meel",
+    "name": "Abilities Cooldown Notification",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "gguake",
+    "name": "Free Draftee Direction",
     "steamId": null,
     "version": null
   },
@@ -678,6 +690,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "TheEyeOfBrows",
+    "name": "Fluffy Breakdowns (1.3 Update)",
+    "steamId": "2584064444",
+    "version": "1.0.0"
+  },
+  {
     "author": "Dave-EEs",
     "name": "No Random Relations",
     "steamId": "2583377522",
@@ -688,18 +706,6 @@
     "name": "Non uno Pinata (don't drop items)",
     "steamId": "1778821244",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Kayedon",
-    "name": "[KYD] More Pawns Get Prosthetics!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Live With The Pain",
-    "steamId": "2659985388",
-    "version": "1.0.5.0"
   },
   {
     "author": "cucumpear",
@@ -720,20 +726,14 @@
     "version": null
   },
   {
+    "author": "legodude17",
+    "name": "Better Bed Assignment",
+    "steamId": "2417077360",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "dhultgren",
     "name": "Keep Bed Ownership",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smuffle",
-    "name": "Harvest Organs Post Mortem",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "gguake",
-    "name": "Free Draftee Direction",
     "steamId": null,
     "version": null
   },
@@ -754,6 +754,12 @@
     "name": "Dress Patients",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Stuffed Floors",
+    "steamId": "853043503",
+    "version": "2.13.92"
   },
   {
     "author": "UnlimitedHugs",
@@ -792,6 +798,12 @@
     "version": null
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Recipe icons",
+    "steamId": "1616643195",
+    "version": "1.0.379.0018"
+  },
+  {
     "author": "Fluffy",
     "name": "Medical Tab",
     "steamId": "715565817",
@@ -810,20 +822,26 @@
     "version": "4.7.272"
   },
   {
-    "author": "Peppsen",
-    "name": "P-Music",
+    "author": "SirRandoo",
+    "name": "IKWID - Caravan Edition",
     "steamId": null,
     "version": null
   },
   {
-    "author": "1trickPonyta",
-    "name": "Psychic Ships Can Affect Females",
+    "author": "SirKota",
+    "name": "InventoryTab",
     "steamId": null,
     "version": null
   },
   {
     "author": "1trickPonyta",
     "name": "Stranger in black",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
     "steamId": null,
     "version": null
   },
@@ -876,6 +894,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Javier Loustaunau",
+    "name": "Misc Melanin",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "JI_Won",
     "name": "Won hair_men",
     "steamId": null,
@@ -889,20 +913,20 @@
   },
   {
     "author": "Odz",
-    "name": "[Odz] Womens Hair ",
+    "name": "[1.3] Odz Hairs",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Trinity",
-    "name": "RuntimeGC [1.3]",
-    "steamId": "2559582557",
-    "version": "0.1.0.0"
   },
   {
     "author": "Taranchuk",
     "name": "Performance Optimizer",
     "steamId": "2664723367",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   }
 ]
