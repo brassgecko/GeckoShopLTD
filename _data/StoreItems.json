@@ -4576,49 +4576,49 @@
       "abr": "superpod",
       "category": "Buildings",
       "defname": "SRTSSuperpod",
-      "price": 6958
+      "price": -10
     },
     {
       "abr": "srtsmk.i:skip",
       "category": "Buildings",
       "defname": "SRTSSkip",
-      "price": 9150
+      "price": -10
     },
     {
       "abr": "sraf:canary",
       "category": "Buildings",
       "defname": "SRAF",
-      "price": 20258
+      "price": -10
     },
     {
       "abr": "sraf:tek-7",
       "category": "Buildings",
       "defname": "SRAFTek",
-      "price": 31292
+      "price": -10
     },
     {
       "abr": "srtsmk.ii:albatross",
       "category": "Buildings",
       "defname": "SRTSMkII",
-      "price": 29875
+      "price": -10
     },
     {
       "abr": "srtsmk.iii:phoenix",
       "category": "Buildings",
       "defname": "SRTSMkIII",
-      "price": 52792
+      "price": -10
     },
     {
       "abr": "srtsmk.iiip:pelican",
       "category": "Buildings",
       "defname": "SRTSMkIIIp",
-      "price": 61100
+      "price": -10
     },
     {
       "abr": "srtsmk.iv:genesis",
       "category": "Buildings",
       "defname": "SRTSMkIV",
-      "price": 218617
+      "price": -10
     },
     {
       "abr": "bearmeat",

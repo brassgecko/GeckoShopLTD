@@ -406,24 +406,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
-    "name": "Viewer health",
-    "usage": "!mypawnhealth [capacity]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnHealth"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": null,
     "name": "Viewer needs",
     "usage": "!mypawnneeds",
