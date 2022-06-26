@@ -99,13 +99,13 @@
     "author": "m00nl1ght-dev",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "0.0.0.0"
+    "version": "1.9.9.0"
   },
   {
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.0.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "Oblitus",
@@ -123,7 +123,7 @@
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.1.0.0"
+    "version": "2.2.0.0"
   },
   {
     "author": "void",
@@ -195,7 +195,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "hodlhodl",
@@ -436,6 +436,12 @@
     "name": "[Fuu] Punch Attack",
     "steamId": "2651392585",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Techmago",
+    "name": "Minigun2",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "AncientGammoner",
@@ -820,6 +826,12 @@
     "name": "Animal Tab",
     "steamId": "712141500",
     "version": "4.7.272"
+  },
+  {
+    "author": "Master Lorian",
+    "name": "Eye Implants Retextured",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SirRandoo",
