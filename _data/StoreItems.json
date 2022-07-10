@@ -6425,7 +6425,595 @@
       "category": "Ranged weapons",
       "defname": "O21_OR_Z6RotaryBlaster",
       "price": 1133
+    },
+    {
+      "abr": "absinthe",
+      "category": "Alcohol",
+      "defname": "AYAbsinthe",
+      "price": -10
+    },
+    {
+      "abr": "absinthemash",
+      "category": "Apothecary products",
+      "defname": "AYAbsintheMash",
+      "price": -10
+    },
+    {
+      "abr": "aloecream",
+      "category": "Ointments",
+      "defname": "AYAloeCream",
+      "price": -10
+    },
+    {
+      "abr": "aloeleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYAloeLeaves",
+      "price": -10
+    },
+    {
+      "abr": "aloeoil",
+      "category": "Oil Extracts",
+      "defname": "AYAloeOil",
+      "price": -10
+    },
+    {
+      "abr": "ammoniawater",
+      "category": "Apothecary products",
+      "defname": "AYAmmoniaWater",
+      "price": -10
+    },
+    {
+      "abr": "apothecaryhat",
+      "category": "Headgear",
+      "defname": "AYapothecaryhat",
+      "price": -10
+    },
+    {
+      "abr": "apothecaryrobe",
+      "category": "Apparel",
+      "defname": "AYapothecaryOutfit",
+      "price": -10
+    },
+    {
+      "abr": "apothecarytable",
+      "category": "Production",
+      "defname": "AYApothecaryTable",
+      "price": -10
+    },
+    {
+      "abr": "barrel(saltedmeat)",
+      "category": "Apothecary products",
+      "defname": "AYBarrelSaltedMeat",
+      "price": -10
+    },
+    {
+      "abr": "batsculpture",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterBat",
+      "price": -10
+    },
+    {
+      "abr": "belladonnaberries",
+      "category": "Apothecary plant matter",
+      "defname": "AYBelladonnaBerries",
+      "price": -10
+    },
+    {
+      "abr": "birdbath",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterBirdBath",
+      "price": -10
+    },
+    {
+      "abr": "bucket(rocksalt)",
+      "category": "Apothecary products",
+      "defname": "AYSalt_Bucket",
+      "price": -10
+    },
+    {
+      "abr": "bucket(woodash)",
+      "category": "Apothecary products",
+      "defname": "AYWoodAsh_Bucket",
+      "price": -10
+    },
+    {
+      "abr": "calciumcarbonate",
+      "category": "Apothecary products",
+      "defname": "AYCalciumCarbonate",
+      "price": -10
+    },
+    {
+      "abr": "candle",
+      "category": "Furniture",
+      "defname": "AYCandle",
+      "price": -10
+    },
+    {
+      "abr": "castingtable",
+      "category": "Production",
+      "defname": "AYCastArtTable",
+      "price": -10
+    },
+    {
+      "abr": "charcoal",
+      "category": "Apothecary products",
+      "defname": "AYCharcoal",
+      "price": -10
+    },
+    {
+      "abr": "charcoal(ammoniatreated)",
+      "category": "Apothecary products",
+      "defname": "AYAmmoniaCharcoal",
+      "price": -10
+    },
+    {
+      "abr": "charcoalsmithy",
+      "category": "Production",
+      "defname": "AYCharcoalSmithy",
+      "price": -10
+    },
+    {
+      "abr": "charcoalstove",
+      "category": "Production",
+      "defname": "AYCharcoalStove",
+      "price": -10
+    },
+    {
+      "abr": "cinchonabark",
+      "category": "Apothecary plant matter",
+      "defname": "AYCinchonaBark",
+      "price": -10
+    },
+    {
+      "abr": "cinchonapowder",
+      "category": "Powders",
+      "defname": "AYCinchonaPowder",
+      "price": -10
+    },
+    {
+      "abr": "clotheswashingtub",
+      "category": "Production",
+      "defname": "AYApparelWashingTub",
+      "price": -10
+    },
+    {
+      "abr": "coarserocksalt",
+      "category": "Apothecary products",
+      "defname": "AYSalt",
+      "price": -10
+    },
+    {
+      "abr": "elixirofcalming",
+      "category": "Elixirs",
+      "defname": "AYElixirCalming",
+      "price": -10
+    },
+    {
+      "abr": "elixirofinciting",
+      "category": "Elixirs",
+      "defname": "AYElixirInciting",
+      "price": -10
+    },
+    {
+      "abr": "elixiroflucidity",
+      "category": "Elixirs",
+      "defname": "AYElixirLucidity",
+      "price": -10
+    },
+    {
+      "abr": "elixirofsoothing",
+      "category": "Elixirs",
+      "defname": "AYElixirSoothing",
+      "price": -10
+    },
+    {
+      "abr": "flutonic",
+      "category": "Tonics",
+      "defname": "AYFluTonic",
+      "price": -10
+    },
+    {
+      "abr": "garlicbulbs",
+      "category": "Apothecary plant matter",
+      "defname": "AYGarlicBulb",
+      "price": -10
+    },
+    {
+      "abr": "garlicpowder",
+      "category": "Powders",
+      "defname": "AYGarlicPowder",
+      "price": -10
+    },
+    {
+      "abr": "gingerpowder",
+      "category": "Powders",
+      "defname": "AYGingerPowder",
+      "price": -10
+    },
+    {
+      "abr": "gingerroot",
+      "category": "Apothecary plant matter",
+      "defname": "AYGingerRoot",
+      "price": -10
+    },
+    {
+      "abr": "gingertea",
+      "category": "Herbal Teas",
+      "defname": "AYGingerTea",
+      "price": -10
+    },
+    {
+      "abr": "ginkgoleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYGinkgoLeaves",
+      "price": -10
+    },
+    {
+      "abr": "ginkgopowder",
+      "category": "Powders",
+      "defname": "AYGinkgoPowder",
+      "price": -10
+    },
+    {
+      "abr": "ginkgoseeds",
+      "category": "Apothecary plant matter",
+      "defname": "AYGinkgoSeeds",
+      "price": -10
+    },
+    {
+      "abr": "ginsengpowder",
+      "category": "Powders",
+      "defname": "AYGinsengPowder",
+      "price": -10
+    },
+    {
+      "abr": "ginsengroot",
+      "category": "Apothecary plant matter",
+      "defname": "AYGinsengRoot",
+      "price": -10
+    },
+    {
+      "abr": "ginsengtea",
+      "category": "Herbal Teas",
+      "defname": "AYGinsengTea",
+      "price": -10
+    },
+    {
+      "abr": "hay(ammoniatreated)",
+      "category": "Foods",
+      "defname": "AYAmmoniaHay",
+      "price": -10
+    },
+    {
+      "abr": "henbanejoint",
+      "category": "Smokes",
+      "defname": "AYHenbaneJoint",
+      "price": -10
+    },
+    {
+      "abr": "henbaneleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYHenbaneLeaves",
+      "price": -10
+    },
+    {
+      "abr": "henbaneoil",
+      "category": "Oil Extracts",
+      "defname": "AYHenbaneOil",
+      "price": -10
+    },
+    {
+      "abr": "henbanepowder",
+      "category": "Powders",
+      "defname": "AYHenbanePowder",
+      "price": -10
+    },
+    {
+      "abr": "henbanetea",
+      "category": "Herbal Teas",
+      "defname": "AYHenbaneTea",
+      "price": -10
+    },
+    {
+      "abr": "herbalisthat",
+      "category": "Headgear",
+      "defname": "AYHerbalistHat",
+      "price": -10
+    },
+    {
+      "abr": "herbalistrobe",
+      "category": "Apparel",
+      "defname": "AYHerbalistOutfit",
+      "price": -10
+    },
+    {
+      "abr": "kaleleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYKaleLeaves",
+      "price": -10
+    },
+    {
+      "abr": "kalepowder",
+      "category": "Powders",
+      "defname": "AYKalePowder",
+      "price": -10
+    },
+    {
+      "abr": "kaletea",
+      "category": "Herbal Teas",
+      "defname": "AYKaleTea",
+      "price": -10
+    },
+    {
+      "abr": "largecastingtable",
+      "category": "Production",
+      "defname": "AYLargeCastArtTable",
+      "price": -10
+    },
+    {
+      "abr": "largeedgysculpture",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterLargeEdgy",
+      "price": -10
+    },
+    {
+      "abr": "largeowlysculpture",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterLargeOwly",
+      "price": -10
+    },
+    {
+      "abr": "lavenderbalm",
+      "category": "Ointments",
+      "defname": "AYLavenderBalm",
+      "price": -10
+    },
+    {
+      "abr": "lavenderflowers",
+      "category": "Apothecary plant matter",
+      "defname": "AYLavenderFlowers",
+      "price": -10
+    },
+    {
+      "abr": "lavenderoil",
+      "category": "Oil Extracts",
+      "defname": "AYLavenderOil",
+      "price": -10
+    },
+    {
+      "abr": "lavendersoap",
+      "category": "Ointments",
+      "defname": "AYLavenderSoap",
+      "price": 22
+    },
+    {
+      "abr": "limeplasterblocks",
+      "category": "Stone blocks",
+      "defname": "BlocksAYLimePlaster",
+      "price": -10
+    },
+    {
+      "abr": "limewater",
+      "category": "Apothecary products",
+      "defname": "AYLimewater",
+      "price": -10
+    },
+    {
+      "abr": "nettlehemp",
+      "category": "Textiles",
+      "defname": "AYNettleHemp",
+      "price": -10
+    },
+    {
+      "abr": "nettleleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYNettleLeaves",
+      "price": -10
+    },
+    {
+      "abr": "nettlepowder",
+      "category": "Powders",
+      "defname": "AYNettlePowder",
+      "price": -10
+    },
+    {
+      "abr": "nettletea",
+      "category": "Herbal Teas",
+      "defname": "AYNettleTea",
+      "price": -10
+    },
+    {
+      "abr": "planter",
+      "category": "Lime plaster art",
+      "defname": "AYPlasterPlanter",
+      "price": -10
+    },
+    {
+      "abr": "potash",
+      "category": "Apothecary products",
+      "defname": "AYPotash",
+      "price": -10
+    },
+    {
+      "abr": "pottingcompost",
+      "category": "Apothecary products",
+      "defname": "AYCompost",
+      "price": -10
+    },
+    {
+      "abr": "pottingmix",
+      "category": "Apothecary products",
+      "defname": "AYPottingMix",
+      "price": -10
+    },
+    {
+      "abr": "preservemix",
+      "category": "Apothecary products",
+      "defname": "AYPreserveMix",
+      "price": -10
+    },
+    {
+      "abr": "preservingbarrel",
+      "category": "Production",
+      "defname": "AYPreserveBarrel",
+      "price": -10
+    },
+    {
+      "abr": "quininetea",
+      "category": "Herbal Teas",
+      "defname": "AYQuinineTea",
+      "price": -10
+    },
+    {
+      "abr": "salammoniac",
+      "category": "Apothecary products",
+      "defname": "AYSalAmmoniac",
+      "price": -10
+    },
+    {
+      "abr": "saltedmeat",
+      "category": "Apothecary products",
+      "defname": "AYSaltedMeat",
+      "price": -10
+    },
+    {
+      "abr": "scarcream",
+      "category": "Ointments",
+      "defname": "AYScarCream",
+      "price": -10
+    },
+    {
+      "abr": "smellingsalts",
+      "category": "Salts",
+      "defname": "AYSmellingSalts",
+      "price": -10
+    },
+    {
+      "abr": "stjohnswortflowers",
+      "category": "Apothecary plant matter",
+      "defname": "AYStJohnsWortFlowers",
+      "price": -10
+    },
+    {
+      "abr": "stjohnswortoil",
+      "category": "Oil Extracts",
+      "defname": "AYStJohnsWortOil",
+      "price": -10
+    },
+    {
+      "abr": "staraniseflowers",
+      "category": "Apothecary plant matter",
+      "defname": "AYStarAniseFlowers",
+      "price": -10
+    },
+    {
+      "abr": "staraniseoil",
+      "category": "Oil Extracts",
+      "defname": "AYStarAniseOil",
+      "price": -10
+    },
+    {
+      "abr": "stomachsalts",
+      "category": "Salts",
+      "defname": "AYStomachSalts",
+      "price": -10
+    },
+    {
+      "abr": "tallow",
+      "category": "Apothecary products",
+      "defname": "AYTallow",
+      "price": -10
+    },
+    {
+      "abr": "treatedherbalmedicine",
+      "category": "Medicine",
+      "defname": "AYTreatedMedHerb",
+      "price": -10
+    },
+    {
+      "abr": "turmericpowder",
+      "category": "Powders",
+      "defname": "AYTurmericPowder",
+      "price": -10
+    },
+    {
+      "abr": "turmericroots",
+      "category": "Apothecary plant matter",
+      "defname": "AYTurmericRoot",
+      "price": -10
+    },
+    {
+      "abr": "turmerictea",
+      "category": "Herbal Teas",
+      "defname": "AYTurmericTea",
+      "price": -10
+    },
+    {
+      "abr": "whitewillowbark",
+      "category": "Apothecary plant matter",
+      "defname": "AYWhiteWillowBark",
+      "price": -10
+    },
+    {
+      "abr": "whitewillowpowder",
+      "category": "Powders",
+      "defname": "AYWhiteWillowPowder",
+      "price": -10
+    },
+    {
+      "abr": "willowtonic",
+      "category": "Tonics",
+      "defname": "AYWillowTonic",
+      "price": -10
+    },
+    {
+      "abr": "woodashes",
+      "category": "Apothecary products",
+      "defname": "AYWoodAshes",
+      "price": -10
+    },
+    {
+      "abr": "wormwoodleaves",
+      "category": "Apothecary plant matter",
+      "defname": "AYWormwoodLeaves",
+      "price": -10
+    },
+    {
+      "abr": "wormwoodoil",
+      "category": "Oil Extracts",
+      "defname": "AYWormwoodOil",
+      "price": -10
+    },
+    {
+      "abr": "wormwoodtonic",
+      "category": "Tonics",
+      "defname": "AYWormwoodTonic",
+      "price": -10
+    },
+    {
+      "abr": "yarrowbandages",
+      "category": "Medicine",
+      "defname": "AYYarrowBandage",
+      "price": -10
+    },
+    {
+      "abr": "yarrowcream",
+      "category": "Ointments",
+      "defname": "AYYarrowCream",
+      "price": -10
+    },
+    {
+      "abr": "yarrowmaterial",
+      "category": "Apothecary plant matter",
+      "defname": "AYYarrowMaterial",
+      "price": -10
+    },
+    {
+      "abr": "yarrowoil",
+      "category": "Oil Extracts",
+      "defname": "AYYarrowOil",
+      "price": -10
     }
   ],
-  "total": 1071
+  "total": 1169
 }

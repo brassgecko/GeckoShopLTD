@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -4030,7 +4030,7 @@
       "defName": "Human",
       "enabled": false,
       "name": "human",
-      "price": 2500
+      "price": 2000
     },
     {
       "data": {
@@ -4052,7 +4052,7 @@
       "defName": "O21_OR_Chiss",
       "enabled": true,
       "name": "Chiss",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4074,7 +4074,7 @@
       "defName": "O21_OR_Dathomirian",
       "enabled": true,
       "name": "Dathomirian",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4096,7 +4096,7 @@
       "defName": "O21_OR_Wookiee",
       "enabled": true,
       "name": "wookiee",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4118,7 +4118,7 @@
       "defName": "O21_OR_MonCalamari",
       "enabled": true,
       "name": "Mon Calamari",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4140,7 +4140,7 @@
       "defName": "O21_OR_Quarren",
       "enabled": true,
       "name": "Quarren",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4162,7 +4162,7 @@
       "defName": "O21_OR_Gungan",
       "enabled": true,
       "name": "gungan",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4184,7 +4184,7 @@
       "defName": "O21_OR_Pyke",
       "enabled": true,
       "name": "Pyke",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4206,7 +4206,7 @@
       "defName": "O21_OR_Rakata",
       "enabled": true,
       "name": "rakata",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4228,7 +4228,7 @@
       "defName": "O21_OR_Jawa",
       "enabled": true,
       "name": "Jawa",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4250,7 +4250,7 @@
       "defName": "O21_OR_Tusken",
       "enabled": true,
       "name": "Tusken",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4276,7 +4276,7 @@
       "defName": "O21_OR_HK47Droid",
       "enabled": false,
       "name": "HK-47 Assassin Droid",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
@@ -4302,7 +4302,7 @@
       "defName": "O21_OR_HK50Droid",
       "enabled": false,
       "name": "HK-50 Assassin Droid",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
@@ -4328,7 +4328,7 @@
       "defName": "O21_OR_HK51Droid",
       "enabled": false,
       "name": "HK-51 Assassin Droid",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
@@ -4350,7 +4350,7 @@
       "defName": "O21_OR_CloneTrooper",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4376,7 +4376,7 @@
       "defName": "O21_OR_TacticalDroid",
       "enabled": false,
       "name": "T-Series Tactical Droid",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
@@ -4402,7 +4402,7 @@
       "defName": "O21_OR_BattleDroid",
       "enabled": false,
       "name": "B1 Battle Droid",
-      "price": 2500
+      "price": 2000
     },
     {
       "data": {
@@ -4428,7 +4428,7 @@
       "defName": "O21_OR_CommandoDroid",
       "enabled": false,
       "name": "BX Commando Droid",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
@@ -4454,7 +4454,7 @@
       "defName": "O21_OR_DestroyerDroid",
       "enabled": false,
       "name": "destroyer droid",
-      "price": 1667
+      "price": 2000
     },
     {
       "data": {
@@ -4480,7 +4480,7 @@
       "defName": "O21_OR_MagnaGuardDroid",
       "enabled": false,
       "name": "MagnaGuard Droid",
-      "price": 1667
+      "price": 2000
     },
     {
       "data": {
@@ -4507,7 +4507,7 @@
       "defName": "O21_OR_SuperBattleDroid",
       "enabled": false,
       "name": "B2 Super Battle Droid",
-      "price": 1667
+      "price": 2000
     },
     {
       "data": {
@@ -4534,7 +4534,7 @@
       "defName": "O21_OR_SuperTacticalDroid",
       "enabled": false,
       "name": "Super Tactical Droid",
-      "price": 1250
+      "price": 2000
     },
     {
       "data": {
@@ -4560,7 +4560,7 @@
       "defName": "O21_OR_KXSecurityDroid",
       "enabled": false,
       "name": "KX Security Droid",
-      "price": 2500
+      "price": 2000
     },
     {
       "data": {
@@ -4582,7 +4582,7 @@
       "defName": "O21_OR_Abednedo",
       "enabled": true,
       "name": "Abednedo",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4604,7 +4604,7 @@
       "defName": "O21_OR_Aqualish",
       "enabled": true,
       "name": "Aqualish",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4626,7 +4626,7 @@
       "defName": "O21_OR_Bith",
       "enabled": true,
       "name": "Bith",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4648,7 +4648,7 @@
       "defName": "O21_OR_Cerean",
       "enabled": true,
       "name": "Cerean",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4671,7 +4671,7 @@
       "defName": "O21_OR_Devaronian",
       "enabled": true,
       "name": "Devaronian",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4693,7 +4693,7 @@
       "defName": "O21_OR_Duros",
       "enabled": true,
       "name": "Duros",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4715,7 +4715,7 @@
       "defName": "O21_OR_Iktotchi",
       "enabled": true,
       "name": "Iktotchi",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4737,7 +4737,7 @@
       "defName": "O21_OR_Iridonian",
       "enabled": true,
       "name": "Iridonian",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4759,7 +4759,7 @@
       "defName": "O21_OR_Ithorian",
       "enabled": true,
       "name": "Ithorian",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4781,7 +4781,7 @@
       "defName": "O21_OR_Mirialan",
       "enabled": true,
       "name": "Mirialan",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4803,7 +4803,7 @@
       "defName": "O21_OR_Neimoidian",
       "enabled": true,
       "name": "Neimoidian",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4825,7 +4825,7 @@
       "defName": "O21_OR_Nikto",
       "enabled": true,
       "name": "Nikto",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4847,7 +4847,7 @@
       "defName": "O21_OR_Selkath",
       "enabled": true,
       "name": "Selkath",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4869,7 +4869,7 @@
       "defName": "O21_OR_Sith",
       "enabled": true,
       "name": "Sith",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4891,7 +4891,7 @@
       "defName": "O21_OR_Togruta",
       "enabled": true,
       "name": "Togruta",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4913,7 +4913,7 @@
       "defName": "O21_OR_Trandoshan",
       "enabled": true,
       "name": "Trandoshan",
-      "price": 2917
+      "price": 2000
     },
     {
       "data": {
@@ -4935,7 +4935,7 @@
       "defName": "O21_OR_Twilek",
       "enabled": true,
       "name": "Twi'lek",
-      "price": 2917
+      "price": 2000
     }
   ]
 }
