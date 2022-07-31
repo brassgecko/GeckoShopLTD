@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 7000,
-		"karmatype": "Doom"
+		"price": 1000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 10000,
-		"karmatype": "Doom"
+		"price": 5000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
@@ -62,7 +62,7 @@
 	},
 	{
 		"abr": "flashstorm",
-		"price": 800,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
@@ -72,12 +72,12 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 1600,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -91,13 +91,18 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "aurora",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
-		"price": 1200,
+		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -107,7 +112,7 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 5000,
+		"price": 275,
 		"karmatype": "Good"
 	},
 	{
@@ -117,22 +122,27 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 1000,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
-		"price": 600,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 2400,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 1800,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -147,13 +157,13 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 1200,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "wildman",
-		"price": 1000,
-		"karmatype": "Neutral"
+		"price": 300,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -163,6 +173,16 @@
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "travelergroup",
+		"price": 80,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitorgroup",
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -192,7 +212,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 10000,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -203,7 +223,7 @@
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
@@ -216,6 +236,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -223,7 +248,7 @@
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "predators",
@@ -231,8 +256,18 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "randomdisease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "reviveanypawn",
-		"price": 3000,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -257,13 +292,33 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 500,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitcolony",
+		"price": 300,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
@@ -272,7 +327,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 3000,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
@@ -307,7 +362,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -348,7 +403,7 @@
 	{
 		"abr": "wear",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "equip",
@@ -357,12 +412,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 1000,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 1000,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -376,5 +431,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 75
+	"total": 86
 }
