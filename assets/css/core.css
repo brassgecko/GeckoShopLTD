@@ -1,12 +1,16 @@
+.site-header {
+    background-color: #bf6060
+}
+
 body {
-    background-color: #c9b4b4;
+    background-color: #b8ac9e;
     line-height: 1;
 }
 
 .tab {
     overflow: hidden;
-    border: 1px solid #cccccc;
-    background-color: #f1f1f1;
+    border: 1px solid #bf6060;
+    background-color: #bf6060;
 }
 
 .tab button {
@@ -20,7 +24,7 @@ body {
 }
 
 .tab button:hover {
-    background-color: #cccccc;
+    background-color: #c0c2c9;
 }
 
 .tabContent {
@@ -42,13 +46,18 @@ body {
 .search {
     width: 100%;
     font-size: 16px;
+    background-color: #dedad5;
     padding: 12px 20px 12px 40px;
-    border: 1px solid #dddddd;
+    border: 1px solid #8e9c9b;
     margin-bottom: 12px;
 }
 
 table {
     display: table;
+}
+
+table tbody tr:hover {
+    background-color: #b89e9e;
 }
 
 th {
