@@ -454,8 +454,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 500,
-      "removePrice": 500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -484,8 +484,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 500,
-      "removePrice": 500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -514,8 +514,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 500,
-      "removePrice": 500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -1989,66 +1989,6 @@
       "degree": -1
     },
     {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": -1
-    },
-    {
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
         "+15% melee avoid chance",
@@ -2998,8 +2938,8 @@
       },
       "defName": "RT_DemoCommon",
       "name": "traitdemo:common",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3500,
       "degree": 0
@@ -3028,8 +2968,8 @@
       },
       "defName": "RT_DemoUncommon",
       "name": "traitdemo:uncommon",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3500,
       "degree": 0
@@ -3058,8 +2998,8 @@
       },
       "defName": "RT_DemoRare",
       "name": "traitdemo:rare",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3500,
       "degree": 0
@@ -3088,8 +3028,8 @@
       },
       "defName": "RT_DemoEpic",
       "name": "traitdemo:epic",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3500,
       "degree": 0
@@ -3118,8 +3058,8 @@
       },
       "defName": "RT_DemoLegendary",
       "name": "traitdemo:legendary",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3500,
       "degree": 0
@@ -3170,7 +3110,7 @@
       },
       "defName": "RT_Gifted",
       "name": "gifted",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 3500,
@@ -3222,7 +3162,7 @@
       },
       "defName": "RT_Incompetent",
       "name": "incompetent",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 3500,
@@ -3705,6 +3645,68 @@
       "addPrice": 3500,
       "removePrice": 3500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is not affected by the effects of aging.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "EvolvedOrgansRedux",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "EVOR_RasVacoule",
+      "name": "rasvacoule",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's life revolves around fighting. he doesn't have the intelligence to do much else.",
+      "stats": [
+        "+20 shooting",
+        "+20 melee"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "EvolvedOrgansRedux",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+20 shooting",
+          "+20 melee"
+        ]
+      },
+      "defName": "EVOR_ExcellentFighter",
+      "name": "reptilianbrain",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -3726,108 +3728,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1900 Market value",
-          "+7.85 Move speed",
-          "-108.0F [-60.0C] Minimum comfortable temperature",
-          "+46.8F [26.0C] Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+120% Research speed",
-          "+95% Mining speed",
-          "+120.00% Social impact",
-          "+125% Melee avoid chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A baseline orassan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Orassia planets. A mammalian humanoid feline race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.",
-      "defName": "Alien_Orassan",
-      "enabled": true,
-      "name": "orassan",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1900 Market value",
-          "+6.23 Move speed",
-          "+0.0F [0.0C] Minimum comfortable temperature",
-          "+46.8F [26.0C] Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+110% Research speed",
-          "+98% Mining speed",
-          "+125.00% Social impact",
-          "+117% Melee avoid chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A hybrid with DNA from a human and an orassan. Typically created through careful genetic engineering in a lab, or the \"natural\" way from individuals with closely regulated gene mods, these hybrids combine some of the best traits from their parent species. The particular traits and physical characteristics that are being inherited are typically chosen by the parents having the child, but they almost always have two feline ears and a feline tail, both with fur sharing the same color as the hair on their head.",
-      "defName": "Alien_OrassanHumanHybrid",
-      "enabled": true,
-      "name": "neko",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+75.00 Mass",
-          "+100% Flammability",
-          "+$1900 Market value",
-          "+5.00 Move speed",
-          "-10.8F [-6.0C] Minimum comfortable temperature",
-          "+45.0F [25.0C] Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+120% Research speed",
-          "+100% Mining speed",
-          "+120.00% Social impact",
-          "+4 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A baseline callistan, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Callistan planets. A nocturnal mammalian humanoid canine race. Evolving in cold caves and life on space ships make it so they don't mind the dark or being inside for long periods of time.",
-      "defName": "Alien_Callistan",
-      "enabled": true,
-      "name": "callistan",
-      "price": 3000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+80% Flammability",
-          "+$1900 Market value",
-          "+4.59 Move speed",
-          "+5.4F [3.0C] Minimum comfortable temperature",
-          "+72.0F [40.0C] Maximum comfortable temperature",
-          "+70 Leather amount",
-          "+95% Research speed",
-          "+115% Mining speed",
-          "+115% Construction speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A baseline Ni'Hal, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Rax'Thalaki planets. An amphibious reptile race.",
-      "defName": "Alien_NiHal",
-      "enabled": true,
-      "name": "Ni'Hal",
-      "price": 3000
+      "price": 2000
     }
   ]
 }
