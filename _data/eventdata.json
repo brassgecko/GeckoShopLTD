@@ -226,9 +226,9 @@
   "madanimal": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "psychicdrone": {
@@ -522,9 +522,9 @@
   "torytalkervote": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 300,
     "Mod": "Twitch Toolkit"
   },
   "hodlbotvote": {
@@ -578,7 +578,7 @@
   "surgery": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 300,
     "Mod": "ToolkitUtils"

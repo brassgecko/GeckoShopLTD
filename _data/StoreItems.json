@@ -658,7 +658,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": 2
+      "price": 10
     },
     {
       "abr": "pemmican",
@@ -3508,367 +3508,367 @@
       "abr": "<color=#00fff7>auxilaryheart</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_AuxilaryHeart",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>butchersnails</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Brain_ButchersNails",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>calciumalloyribcage</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Ribcage_CalciumAlloyRibcage",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>combatserumgland</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_CombatSerumGland",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>cranialplating</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skull_CranialPlating",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>distendablejaw</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Jaw_DistendableJaw",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>extrananofilterlung</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_ExtraNanofilterLung",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>extradextrousappendage</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_ExtradextrousArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>eyeofthevoid</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Eye_EyeOfTheVoid",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>featheredwings</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_FeatheredWings",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>flameretardantskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_FlameRetardantSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>frostmantishook</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_FrostMantisHook",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>graspingleg</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_GraspingLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>highpressurepincer</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_HighPressurePincer",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>hormoneregulator</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_HormoneRegulator",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>interferenceshielding</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skull_InterferenceShielding",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>iridescenteye</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Eye_IridescentEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>leatherywings</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_LeatheryWings",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>lymphaticproliferator</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_LymphaticProliferator",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>microanalyzernose</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Nose_MicroAnalyzerNose",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>mucousgland</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Torso_MucousGland",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>multichamberstomach</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Stomach_MultichamberStomach",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>multifrequencyear</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Ear_MultifrequencyEar",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>multilayereddermalplating</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Torso_MultilayeredDermalPlating",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>multispectrumeye</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Eye_MultispectrumEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>musculaturebraces</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_MusculatureBraces",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>nanoalveolilung</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Lung_NanoAlveoliLung",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>neuralhyperthreader</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Brain_NeuralHyperthreader",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>neuroacceleratedspine</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Spine_NeuroAcceleratedSpine",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>norncrown</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Sternum_NornCrown",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>ossifiedbonesaber</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_OssifiedBoneSaber",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>peltgrowth</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_PeltGrowth",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>perspirationcleansingkidney</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Kidney_PerspirationCleansingKidney",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>pheromonereleasernose</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Nose_PheromoneReleaserNose",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>phytoplanktonskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_PhytoplanktonSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>plaguelesions</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Sternum_PlagueLesions",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>psychicresonancetissue</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skull_PsychicResonanceTissue",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>quadlobeliver</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Liver_QuadlobeLiver",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>radiationabsorbingskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_RadiationAbsorbingSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>rasvacoule</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_AbdominalAndChestcavity_RasVacoule",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reactiveshimmerworms</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Sternum_ReactiveShimmerworms",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>regenerativeliver</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Liver_RegenerativeLiver",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reinforcedleg</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_ReinforcedLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reinforcedneckmuscles</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Neck_ReinforcedNeckMuscles",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reinforcedtortoiseshell</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Sternum_ReinforcedTortoiseShell",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>rendingclaw</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_RendingClaw",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>reptilianfrontalcortex</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Brain_ReptilianFrontalCortex",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>salamanderwhip</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_SalamanderWhip",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>shimmeringskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_ShimmeringSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>shirehorseleg</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_ShireHorseLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>sonicimpactmace</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_SonicImpactMace",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>tentaclecluster</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_TentacleCluster",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>triplatedlimb</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_TriPlacedLimb",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>triplefilterpasskidney</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Kidney_TripleFilterPassKidney",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>triwovenprimaryheart</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Heart_TriwovenPrimaryHeart",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>variableinsulationskin</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Protection_Skin_VariableInsulationSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>venomousfangs</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Jaw_VenomousFangs",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>venomousstinger</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Tail_VenomousStinger",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>venopillararm</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_VenopillarArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>waterfilledgrowth</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Back_WaterFilledGrowth",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "<color=#00fff7>weigthedtail</color>",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Appendage_WeightedTail",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "adrenalineribreplacement",
@@ -4264,13 +4264,13 @@
       "abr": "psychicresonancetissue",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Skull_Resonance",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "reactiveshimmerworms",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Artifact_Royalty_ReactiveWorms",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "safe",
@@ -4396,7 +4396,7 @@
       "abr": "thenorncrown",
       "category": "Evolved body parts",
       "defname": "EVOR_Item_Artifact_Royalty_NornCrown",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "tissueprinter",
