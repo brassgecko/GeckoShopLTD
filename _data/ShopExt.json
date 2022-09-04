@@ -3647,7 +3647,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is not affected by the effects of aging.",
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [
 
       ],
@@ -3659,7 +3659,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "EvolvedOrgansRedux",
+        "mod": "Humanoid Alien Races",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3668,19 +3668,18 @@
 
         ]
       },
-      "defName": "EVOR_RasVacoule",
-      "name": "rasvacoule",
+      "defName": "Xenophobia",
+      "name": "xenophobe",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0
+      "degree": 1
     },
     {
-      "description": "Timmy's life revolves around fighting. he doesn't have the intelligence to do much else.",
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [
-        "+20 shooting",
-        "+20 melee"
+
       ],
       "conflicts": [
 
@@ -3690,18 +3689,55 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "EvolvedOrgansRedux",
+        "mod": "Humanoid Alien Races",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+20 shooting",
-          "+20 melee"
+
         ]
       },
-      "defName": "EVOR_ExcellentFighter",
-      "name": "reptilianbrain",
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is the descendant of a designer mate. Though most of his ancestral traits are diluted, he is still extremely beautiful and cheerful.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly",
+        "jealous"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Xenohumans - Anthromorphs",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly",
+          "jealous"
+        ],
+        "stats": [
+          "+3.0 beauty"
+        ]
+      },
+      "defName": "ATK_DesignerMate",
+      "name": "designerheritage",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -3728,9 +3764,533 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+28.8F [16.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic avian, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Avianmorph",
+      "enabled": true,
+      "name": "avianmorph",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0F [0.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic canine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Caninemorph",
+      "enabled": true,
+      "name": "caninemorph",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0F [0.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic cervine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Cervinemorph",
+      "enabled": true,
+      "name": "cervinemorph",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1950 Market value",
+          "+4.60 Move speed",
+          "+36.0F [20.0C] Minimum comfortable temperature",
+          "+72.0F [40.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic dragon, but is otherwise identical to the average human. They are exceedingly rare due to the extensive and expensive modifications made to their physiology.",
+      "defName": "ATK_Dragomorph",
+      "enabled": true,
+      "name": "dragomorph",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0F [0.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic feline, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Felinemorph",
+      "enabled": true,
+      "name": "felinemorph",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+16.2F [9.0C] Minimum comfortable temperature",
+          "+61.2F [34.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic hyena, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Gnollmorph",
+      "enabled": true,
+      "name": "gnollmorph",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+16.2F [9.0C] Minimum comfortable temperature",
+          "+61.2F [34.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic lapine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Lagomorph",
+      "enabled": true,
+      "name": "lagomorph",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+0.0F [0.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic fox, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Vulpinemorph",
+      "enabled": true,
+      "name": "Vulpinemorph",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+56.00 Mass",
+          "+200% Flammability",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+0.0% Armor - Heat",
+          "+3% Mental break threshold",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+80% Global learning factor",
+          "+120% Hunger rate multiplier",
+          "+140% Rest rate multiplier",
+          "+200% Eating speed",
+          "+400% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+40 Meat amount",
+          "+0 Leather amount",
+          "+0 Minimum handling skill",
+          "+100% Pain shock threshold",
+          "+1.4 Foraged food amount",
+          "+90.00% Negotiation ability",
+          "+90.00% Trade price improvement",
+          "+90.00% Social impact",
+          "+90% Global work speed",
+          "+100% General labor speed",
+          "+$2000 Market value",
+          "+4.00 Move speed",
+          "-540.0F [-300.0C] Minimum comfortable temperature",
+          "+41.4F [23.0C] Maximum comfortable temperature",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Mincho is a slime-like race fully comprised of mintchoco ice cream.\n\nICEcRIM Co. created slime using mintchoco flavor ice cream with variant mechanite as an advertisement toy. However, due to an accidental mix-up during the final production stage, the wrong kind of variant, that was supposed to be disposed of due to critical defects, was used.\n\nMincho mimics human beings out of pure affection. They wish the humans to love them and \"consume\" them.\n\nDue to the simplicity of body composition, they are capable of regenerating even severed heads, resilient against diseases, and endures most fatal wounds.\n\nDifferences in the nerve system made them also immune to pain and psychic waves.\n\nHowever, Mincho is not capable of thinking, slow to learn and work, and weak against heat. \n\nWhen they are killed somehow (perhaps by having their core destroyed) they will turn into a lump of mintchoco ice cream.",
+      "defName": "Mincho_ThingDef",
+      "enabled": true,
+      "name": "mincho",
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1800 Market value",
+          "+4.60 Move speed",
+          "+28.8F [16.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+1.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A xenohuman that is biosculpted to resemble an anthropomorphic bovine, but is otherwise identical to the average human. Most originate from ultra-tech glitterworld cultures and are consequently uncommon on the rim.",
+      "defName": "ATK_Bovinemorph",
+      "enabled": true,
+      "name": "bovinemorph",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+250% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+32.4F [18.0C] Minimum comfortable temperature",
+          "+66.6F [37.0C] Maximum comfortable temperature",
+          "+5 Honor value",
+          "+30 Leather amount",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "+50 Carrying capacity",
+          "+30% Mental break threshold",
+          "+80% Research speed",
+          "+50% Mining speed",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+80% Plant work speed",
+          "+100% Plant harvest yield",
+          "+80% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver queen - the only biologically female caste in its hive, they often control their drones via pheromone signals. They are more intelligent than regular drones, possessing an increased cerebral capacity.\n\nQueens birth new hiver castes every month by expelling larvae from their chest cavity.",
+      "defName": "Hiver_Queen",
+      "enabled": true,
+      "name": "hiver queen",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+50% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+32.4F [18.0C] Minimum comfortable temperature",
+          "+66.6F [37.0C] Maximum comfortable temperature",
+          "+1 Honor value",
+          "+30 Leather amount",
+          "+$500 Market value",
+          "+5.20 Move speed",
+          "+85 Carrying capacity",
+          "+20% Mental break threshold",
+          "+50% Research speed",
+          "+150% Mining speed",
+          "+80.00% Social impact",
+          "+180% Plant work speed",
+          "+100% Plant harvest yield",
+          "+80% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver drone - the genetic caste that performs various tasks and labor for their hive. They possess a biological affinity for menial labor, making them desirable slaves.\n\nOften upon being exiled or severed from the hive, a drone will be bewildered by its new sense of self, sometimes causing an existential crisis.",
+      "defName": "Hiver_Worker",
+      "enabled": true,
+      "name": "hiver drone",
+      "price": 1250
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+50% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+32.4F [18.0C] Minimum comfortable temperature",
+          "+66.6F [37.0C] Maximum comfortable temperature",
+          "+1 Honor value",
+          "+30 Leather amount",
+          "+$500 Market value",
+          "+4.61 Move speed",
+          "+80 Carrying capacity",
+          "+20% Mental break threshold",
+          "+50% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+50% Plant work speed",
+          "+50% Plant harvest yield",
+          "+80% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+20.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver soldier drone - the genetic caste used for offense and defense in service of their hive.\n\nCompared to other drone castes they are proficient in combat, with thick plates of chitin on certain parts of their body - inhibiting them from pursuing a craft that requires deftness of hand.",
+      "defName": "Hiver_Soldier",
+      "enabled": true,
+      "name": "hiver soldier drone",
+      "price": 1250
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+50% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+32.4F [18.0C] Minimum comfortable temperature",
+          "+66.6F [37.0C] Maximum comfortable temperature",
+          "+1 Honor value",
+          "+30 Leather amount",
+          "+$500 Market value",
+          "+5.20 Move speed",
+          "+85 Carrying capacity",
+          "+20% Mental break threshold",
+          "+50% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+80% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver drone - the genetic caste that performs various tasks and labor for their hive. They possess a biological affinity for menial labor.\n\nOften upon being exiled or severed from the hive, a drone will be bewildered by its new sense of self, sometimes causing an existential crisis.",
+      "defName": "Hiver_Worker_South",
+      "enabled": false,
+      "name": "hiver drone",
+      "price": 1000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+50% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+32.4F [18.0C] Minimum comfortable temperature",
+          "+66.6F [37.0C] Maximum comfortable temperature",
+          "+1 Honor value",
+          "+30 Leather amount",
+          "+$500 Market value",
+          "+4.61 Move speed",
+          "+80 Carrying capacity",
+          "+20% Mental break threshold",
+          "+50% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+50% Plant work speed",
+          "+50% Plant harvest yield",
+          "+80% Construction speed",
+          "+20.0% Armor - Blunt",
+          "+30.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver warrior drone - the genetic caste used for offense and defense in service of their hive.\n\nCompared to other drone castes they are proficient in combat, with thick plates of chitin on certain parts of their body - inhibiting them from pursuing a craft that requires deftness of hand.",
+      "defName": "Hiver_Soldier_South",
+      "enabled": true,
+      "name": "hiver warrior drone",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+100% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+32.4F [18.0C] Minimum comfortable temperature",
+          "+66.6F [37.0C] Maximum comfortable temperature",
+          "+1 Honor value",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+30% Mental break threshold",
+          "+150% Research speed",
+          "+50% Mining speed",
+          "+100.00% Social impact",
+          "+80% Plant work speed",
+          "+100% Plant harvest yield",
+          "+150% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver prince - the genetic caste that often commands its hive's drones; though they still follow the will of their queen. They are more intelligent than regular drones, possessing a biological affinity for intellectual tasks.",
+      "defName": "Hiver_Prince",
+      "enabled": true,
+      "name": "hiver prince",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+100% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+32.4F [18.0C] Minimum comfortable temperature",
+          "+66.6F [37.0C] Maximum comfortable temperature",
+          "+1 Honor value",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+30% Mental break threshold",
+          "+100% Research speed",
+          "+50% Mining speed",
+          "+80.00% Social impact",
+          "+60% Plant work speed",
+          "+100% Plant harvest yield",
+          "+150% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver prince - the genetic caste that often commands its hive's drones; though they still follow the will of their queen. They are more intelligent than regular drones, possessing a biological affinity for intellectual tasks.",
+      "defName": "Hiver_Prince_South",
+      "enabled": false,
+      "name": "hiver prince",
+      "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+250% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+32.4F [18.0C] Minimum comfortable temperature",
+          "+66.6F [37.0C] Maximum comfortable temperature",
+          "+5 Honor value",
+          "+30 Leather amount",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "+50 Carrying capacity",
+          "+30% Mental break threshold",
+          "+100% Research speed",
+          "+50% Mining speed",
+          "+100.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+80% Plant work speed",
+          "+100% Plant harvest yield",
+          "+80% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+10.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver queen - the only biologically female caste in its hive, they often control their drones via pheromone signals. They are more intelligent than regular drones, possessing an increased cerebral capacity.\n\nQueens birth new hiver castes every month by expelling larvae from their chest cavity.",
+      "defName": "Hiver_Queen_South",
+      "enabled": false,
+      "name": "hiver queen",
+      "price": 2500
     }
   ]
 }
