@@ -3673,7 +3673,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 1
     },
     {
@@ -3703,7 +3703,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": -1
     },
     {
@@ -3741,7 +3741,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 3500,
       "degree": 0
     }
   ],
