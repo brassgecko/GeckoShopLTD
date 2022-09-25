@@ -8,7 +8,7 @@
 	{
 		"abr": "tornados",
 		"price": 7500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 1250,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -153,7 +153,7 @@
 	{
 		"abr": "wildman",
 		"price": 500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rarethrumbos",
@@ -192,18 +192,13 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1000,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 1000,
+		"price": 5000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 10000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -212,12 +207,12 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 5000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 5000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -394,6 +389,11 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "kineticstrike",
+		"price": 5000,
+		"karmatype": "Doom"
 	}
 	],
 	"total": 79

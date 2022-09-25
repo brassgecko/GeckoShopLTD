@@ -6,12 +6,6 @@
     "version": "1.4.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Mod Manager",
-    "steamId": "1507748539",
-    "version": "3.8.1038"
-  },
-  {
     "author": "Madeline",
     "name": "Better ModMismatch Window",
     "steamId": "1872244972",
@@ -30,9 +24,9 @@
     "version": "2020.0.1.13"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
+    "author": "Krypt",
+    "name": "RWLayout",
+    "steamId": "2209393954",
     "version": "1.0.0.0"
   },
   {
@@ -42,15 +36,15 @@
     "version": "1.3"
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
     "version": "1.0.0.0"
   },
   {
-    "author": "Krypt",
-    "name": "RWLayout",
-    "steamId": "2209393954",
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
@@ -112,12 +106,6 @@
     "name": "Map Reroll",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Nyan",
-    "name": "Custom Pawn Generation",
-    "steamId": "1958331203",
-    "version": "1.0.0.0"
   },
   {
     "author": "m00nl1ght-dev",
@@ -192,10 +180,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Onyxae",
-    "name": "Dragons Descent",
-    "steamId": "2026992161",
-    "version": "1.0.0.0"
+    "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van and  Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
   },
   {
     "author": "hodlhodl",
@@ -220,6 +208,12 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - More Stuff",
+    "steamId": "2594931182",
+    "version": "1.1.9"
   },
   {
     "author": "Orpheusly",
@@ -258,10 +252,16 @@
     "version": null
   },
   {
-    "author": "Pyrce",
-    "name": "Dire Raids",
-    "steamId": null,
-    "version": null
+    "author": "Kikohi and  MarvinKosh",
+    "name": "Sometimes Raids Go Wrong - Forked",
+    "steamId": "",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NilchEi",
+    "name": "Powerful Faction Bases",
+    "steamId": "1570960972",
+    "version": "1.0.0.0"
   },
   {
     "author": "YAYO",
@@ -360,6 +360,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "DaLLaN",
+    "name": "Combat Update 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SinaKpaa",
     "name": "Close Quarters Combat Brutality",
     "steamId": null,
@@ -402,22 +408,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Techmago",
-    "name": "Minigun2",
-    "steamId": null,
-    "version": null
+    "author": "Sk",
+    "name": "Weapon Mastery",
+    "steamId": "2766683678",
+    "version": "2.2.1"
   },
   {
     "author": "AncientGammoner",
     "name": "Ground Targeter",
     "steamId": "2356822769",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Geminingen",
-    "name": "Kenshi Armory",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Murmur",
@@ -430,6 +430,12 @@
     "name": "RT Fuse",
     "steamId": "728314182",
     "version": "1.5.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Doormats",
+    "steamId": "1508778962",
+    "version": "1.0.0.0"
   },
   {
     "author": "Owlchemist",
@@ -452,6 +458,12 @@
   {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xedos",
+    "name": "Persona Bond Forge",
     "steamId": null,
     "version": null
   },
@@ -598,6 +610,12 @@
     "name": "Stand Your Ground",
     "steamId": "2185757415",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Better Jump Pack (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "XeoNovaDan",
@@ -888,6 +906,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Roskii",
+    "name": "Astoriel Legacy",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Javier Loustaunau",
     "name": "Misc Melanin",
     "steamId": null,
@@ -918,22 +942,10 @@
     "version": null
   },
   {
-    "author": "AveryTheKitty,  Erin and Ravenholme",
-    "name": "Xenohumans - Anthromorphs",
-    "steamId": "2349467636",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "VexedTrees",
-    "name": "Rim-Hivers!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SutSutMan and  Dalrae",
-    "name": "Mincho, The Mint Choco Slime ~ HAR ver.",
-    "steamId": "2477501851",
-    "version": "1.0.0.0"
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
   },
   {
     "author": "Taranchuk",
